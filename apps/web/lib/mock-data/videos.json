@@ -1,0 +1,3984 @@
+{
+  "videos": [
+    {
+      "id": "music-jazz-1",
+      "title": "Late Night Jazz Piano - Relaxing Bebop Standards for Study",
+      "channel": {
+        "name": "Midnight Keys",
+        "avatar": "https://i.pravatar.cc/80?u=midnightkeys",
+        "verified": false,
+        "subscriberCount": 47300
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1459749411175-04bf5292ceea?w=640&q=80",
+      "duration": "1:47:23",
+      "views": 284156,
+      "postedAgo": "3 weeks ago",
+      "tags": [
+        "music",
+        "jazz",
+        "piano",
+        "bebop",
+        "study",
+        "relaxing",
+        "lofi jazz"
+      ],
+      "description": "2 hours of smooth jazz piano featuring classic bebop standards. Perfect for studying, working, or relaxing. Original compositions and reimagined classics.",
+      "category": "music-jazz"
+    },
+    {
+      "id": "music-jazz-3",
+      "title": "How to Play Jazz Improvisation - Beginner's Guide to Soloing",
+      "channel": {
+        "name": "Jazz Guitar Mastery",
+        "avatar": "https://i.pravatar.cc/80?u=jazzguitarmastery",
+        "verified": false,
+        "subscriberCount": 94200
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1510915361894-db8b60106cb1?w=640&q=80",
+      "duration": "22:18",
+      "views": 156234,
+      "postedAgo": "1 month ago",
+      "tags": [
+        "music",
+        "jazz",
+        "guitar",
+        "improvisation",
+        "tutorial",
+        "soloing",
+        "learn jazz"
+      ],
+      "description": "Learn the fundamentals of jazz improvisation. We cover chord tones, scales, phrasing, and practical exercises to get you soloing over jazz standards today.",
+      "category": "music-jazz"
+    },
+    {
+      "id": "music-jazz-4",
+      "title": "Coltrane's 'Giant Steps' Explained: The Harmonic Complexity Decoded",
+      "channel": {
+        "name": "Jazz Theory Deep Dives",
+        "avatar": "https://i.pravatar.cc/80?u=jazztheorydives",
+        "verified": true,
+        "subscriberCount": 267800
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=640&q=80",
+      "duration": "31:45",
+      "views": 543921,
+      "postedAgo": "6 weeks ago",
+      "tags": [
+        "music",
+        "jazz",
+        "music theory",
+        "coltrane",
+        "giant steps",
+        "harmony",
+        "jazz education"
+      ],
+      "description": "John Coltrane's Giant Steps is one of jazz's most challenging compositions. We break down the chord changes, analyze the substitutions, and show you how to navigate this harmonic maze.",
+      "category": "music-jazz"
+    },
+    {
+      "id": "music-jazz-5",
+      "title": "Best Jazz Clubs in NYC 2024 - Live Music Venues Guide",
+      "channel": {
+        "name": "Urban Jazz Explorer",
+        "avatar": "https://i.pravatar.cc/80?u=urbanjazzexplorer",
+        "verified": false,
+        "subscriberCount": 32100
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=640&q=80",
+      "duration": "19:34",
+      "views": 87654,
+      "postedAgo": "2 weeks ago",
+      "tags": [
+        "music",
+        "jazz",
+        "live music",
+        "nyc",
+        "jazz clubs",
+        "venue guide",
+        "travel"
+      ],
+      "description": "Your guide to the top jazz clubs in New York City. We visit Blue Note, Village Vanguard, and other legendary venues. Reviews, tips, and what to expect.",
+      "category": "music-jazz"
+    },
+    {
+      "id": "music-jazz-6",
+      "title": "Ella Fitzgerald - The Queen of Jazz | Documentary Tribute",
+      "channel": {
+        "name": "Jazz Legends Archive",
+        "avatar": "https://i.pravatar.cc/80?u=jazzlegendsarchive",
+        "verified": true,
+        "subscriberCount": 421600
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=640&q=80",
+      "duration": "54:22",
+      "views": 892347,
+      "postedAgo": "5 months ago",
+      "tags": [
+        "music",
+        "jazz",
+        "ella fitzgerald",
+        "documentary",
+        "jazz history",
+        "vocal jazz",
+        "biography"
+      ],
+      "description": "A comprehensive tribute to Ella Fitzgerald, exploring her legendary career, iconic performances, and lasting impact on jazz and American music culture.",
+      "category": "music-jazz"
+    },
+    {
+      "id": "music-jazz-7",
+      "title": "Jazz Chord Voicings Masterclass - Advanced Piano Techniques",
+      "channel": {
+        "name": "Keys to Jazz",
+        "avatar": "https://i.pravatar.cc/80?u=keystojazz",
+        "verified": false,
+        "subscriberCount": 156800
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1510915361894-db8b60106cb1?w=640&q=80",
+      "duration": "26:47",
+      "views": 234189,
+      "postedAgo": "3 weeks ago",
+      "tags": [
+        "music",
+        "jazz",
+        "piano",
+        "chord voicings",
+        "tutorial",
+        "jazz education",
+        "music theory"
+      ],
+      "description": "Master advanced jazz voicings for piano. Learn about rootless voicings, tritone substitutions, and upper structure triads with practical examples and exercises.",
+      "category": "music-jazz"
+    },
+    {
+      "id": "music-jazz-9",
+      "title": "Herbie Hancock 'Maiden Voyage' - Live Performance Analysis",
+      "channel": {
+        "name": "Jazz Performance Studies",
+        "avatar": "https://i.pravatar.cc/80?u=jazzperformancestudies",
+        "verified": false,
+        "subscriberCount": 43600
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1459749411175-04bf5292ceea?w=640&q=80",
+      "duration": "17:23",
+      "views": 124567,
+      "postedAgo": "1 month ago",
+      "tags": [
+        "music",
+        "jazz",
+        "herbie hancock",
+        "maiden voyage",
+        "performance",
+        "analysis",
+        "fusion"
+      ],
+      "description": "Breaking down Herbie Hancock's iconic composition and performance of 'Maiden Voyage.' We discuss the melody, harmony, and why it remains timeless.",
+      "category": "music-jazz"
+    },
+    {
+      "id": "music-jazz-10",
+      "title": "Jazz Standards Collection - 50 Essential Compositions Every Musician Should Know",
+      "channel": {
+        "name": "The Real Book Sessions",
+        "avatar": "https://i.pravatar.cc/80?u=therealbooksessions",
+        "verified": true,
+        "subscriberCount": 334200
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=640&q=80",
+      "duration": "3:12:48",
+      "views": 756234,
+      "postedAgo": "2 months ago",
+      "tags": [
+        "music",
+        "jazz",
+        "standards",
+        "playlist",
+        "compilation",
+        "jazz education",
+        "reference"
+      ],
+      "description": "A complete collection of 50 essential jazz standards. Learn the melodies, chord changes, and histories behind the compositions that define jazz music.",
+      "category": "music-jazz"
+    },
+    {
+      "id": "music-classical-1",
+      "title": "Chopin Nocturne in E-flat Major Op. 9 No. 2 - Complete Performance",
+      "channel": {
+        "name": "Classical Piano Masters",
+        "avatar": "https://i.pravatar.cc/80?u=classicalpiano",
+        "verified": true,
+        "subscriberCount": 287000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=640&q=80",
+      "duration": "4:32",
+      "views": 856420,
+      "postedAgo": "3 months ago",
+      "tags": [
+        "music",
+        "classical",
+        "chopin",
+        "piano",
+        "nocturne",
+        "classical music"
+      ],
+      "description": "A beautiful interpretation of Chopin's most beloved nocturne, performed on a Steinway grand piano. Perfect for studying or relaxation.",
+      "category": "music-classical"
+    },
+    {
+      "id": "music-classical-2",
+      "title": "Bach: The Art of Fugue (Complete) - BWV 1080",
+      "channel": {
+        "name": "Baroque Heritage",
+        "avatar": "https://i.pravatar.cc/80?u=baroqueheritage",
+        "verified": false,
+        "subscriberCount": 45300
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1459749411175-04bf5292ceea?w=640&q=80",
+      "duration": "87:14",
+      "views": 234567,
+      "postedAgo": "8 months ago",
+      "tags": [
+        "music",
+        "classical",
+        "bach",
+        "baroque",
+        "fugue",
+        "harpsichord"
+      ],
+      "description": "The complete Art of Fugue masterpiece by Johann Sebastian Bach, performed on period instruments. A must-listen for baroque enthusiasts.",
+      "category": "music-classical"
+    },
+    {
+      "id": "music-classical-3",
+      "title": "Mozart Symphony No. 40 in G Minor - Berlin Philharmonic",
+      "channel": {
+        "name": "European Classical Orchestra",
+        "avatar": "https://i.pravatar.cc/80?u=euroorch",
+        "verified": true,
+        "subscriberCount": 512000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=640&q=80",
+      "duration": "33:45",
+      "views": 1923456,
+      "postedAgo": "1 year ago",
+      "tags": [
+        "music",
+        "classical",
+        "mozart",
+        "symphony",
+        "orchestral",
+        "berlin philharmonic"
+      ],
+      "description": "One of Mozart's most dramatic symphonies, performed by the legendary Berlin Philharmonic under acclaimed conductor Sir Simon Rattle.",
+      "category": "music-classical"
+    },
+    {
+      "id": "music-classical-4",
+      "title": "Debussy: Clair de Lune (Piano Solo) - 4K High Quality",
+      "channel": {
+        "name": "Piano Serenity",
+        "avatar": "https://i.pravatar.cc/80?u=pianoserenity",
+        "verified": false,
+        "subscriberCount": 178900
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=640&q=80",
+      "duration": "4:44",
+      "views": 2145780,
+      "postedAgo": "2 years ago",
+      "tags": [
+        "music",
+        "classical",
+        "debussy",
+        "piano",
+        "clair de lune",
+        "relaxing"
+      ],
+      "description": "Debussy's iconic 'Moonlight' piece performed in stunning 4K. Perfect ambient music for sleep, study, or meditation.",
+      "category": "music-classical"
+    },
+    {
+      "id": "music-classical-5",
+      "title": "Vivaldi: The Four Seasons (Complete) - Violin Masterpiece",
+      "channel": {
+        "name": "Concertmaster Classics",
+        "avatar": "https://i.pravatar.cc/80?u=concertmaster",
+        "verified": true,
+        "subscriberCount": 423000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1510915361894-db8b60106cb1?w=640&q=80",
+      "duration": "42:18",
+      "views": 3456789,
+      "postedAgo": "6 months ago",
+      "tags": [
+        "music",
+        "classical",
+        "vivaldi",
+        "four seasons",
+        "violin",
+        "baroque"
+      ],
+      "description": "Vivaldi's most celebrated work, the complete Four Seasons with a world-class violin soloist. Featuring spring, summer, autumn, and winter.",
+      "category": "music-classical"
+    },
+    {
+      "id": "music-classical-6",
+      "title": "Beethoven: Moonlight Sonata (Piano) - Full Performance",
+      "channel": {
+        "name": "Classical Music Daily",
+        "avatar": "https://i.pravatar.cc/80?u=classicaldaily",
+        "verified": true,
+        "subscriberCount": 698000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=640&q=80",
+      "duration": "14:27",
+      "views": 5234567,
+      "postedAgo": "1 year ago",
+      "tags": [
+        "music",
+        "classical",
+        "beethoven",
+        "piano",
+        "moonlight sonata",
+        "romantic"
+      ],
+      "description": "Beethoven's Moonlight Sonata performed by a professional concert pianist. All three movements in one complete performance.",
+      "category": "music-classical"
+    },
+    {
+      "id": "music-classical-7",
+      "title": "Tchaikovsky Swan Lake - Complete Ballet Score Orchestral",
+      "channel": {
+        "name": "Russian Classical Heritage",
+        "avatar": "https://i.pravatar.cc/80?u=russianballet",
+        "verified": false,
+        "subscriberCount": 234500
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1487180144351-b8472da7d491?w=640&q=80",
+      "duration": "125:32",
+      "views": 876543,
+      "postedAgo": "9 months ago",
+      "tags": [
+        "music",
+        "classical",
+        "tchaikovsky",
+        "ballet",
+        "swan lake",
+        "orchestral"
+      ],
+      "description": "Tchaikovsky's masterpiece Swan Lake, performed by the Russian National Orchestra. A beloved classic from the romantic era.",
+      "category": "music-classical"
+    },
+    {
+      "id": "music-classical-9",
+      "title": "Handel: Messiah - Hallelujah Chorus (Full Choir & Orchestra)",
+      "channel": {
+        "name": "Sacred Classical Music",
+        "avatar": "https://i.pravatar.cc/80?u=sacredmusic",
+        "verified": false,
+        "subscriberCount": 156700
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=640&q=80",
+      "duration": "3:58",
+      "views": 1567834,
+      "postedAgo": "2 years ago",
+      "tags": [
+        "music",
+        "classical",
+        "handel",
+        "messiah",
+        "hallelujah",
+        "baroque"
+      ],
+      "description": "The iconic Hallelujah chorus from Handel's Messiah, performed by a world-class choir and orchestra.",
+      "category": "music-classical"
+    },
+    {
+      "id": "music-chill-1",
+      "title": "lofi hip hop beats to study and relax to",
+      "channel": {
+        "name": "Chilled Beats",
+        "avatar": "https://i.pravatar.cc/80?u=chilledbeats",
+        "verified": true,
+        "subscriberCount": 2450000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=640&q=80",
+      "duration": "3:47:22",
+      "views": 45287392,
+      "postedAgo": "2 months ago",
+      "tags": [
+        "music",
+        "chill",
+        "lofi",
+        "instrumental",
+        "study",
+        "relax",
+        "beats",
+        "hiphop"
+      ],
+      "description": "24/7 lofi hip hop beats perfect for studying, working, or just relaxing. Sit back and vibe with these smooth instrumental tracks.",
+      "category": "music-chill"
+    },
+    {
+      "id": "music-chill-2",
+      "title": "Rainy Day Jazz - Smooth Instrumental Ambience",
+      "channel": {
+        "name": "Ambient Moods",
+        "avatar": "https://i.pravatar.cc/80?u=ambientmoods",
+        "verified": false,
+        "subscriberCount": 342000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=640&q=80",
+      "duration": "2:15:43",
+      "views": 892456,
+      "postedAgo": "3 weeks ago",
+      "tags": [
+        "music",
+        "chill",
+        "instrumental",
+        "jazz",
+        "ambient",
+        "rain sounds",
+        "relaxation"
+      ],
+      "description": "Relaxing jazz music combined with gentle rain sounds. Perfect background music for work, meditation, or just unwinding after a long day.",
+      "category": "music-chill"
+    },
+    {
+      "id": "music-chill-3",
+      "title": "Coffee Shop Vibes - Indie Folk Acoustic Mix",
+      "channel": {
+        "name": "Cozy Playlist Hub",
+        "avatar": "https://i.pravatar.cc/80?u=cozyplaylist",
+        "verified": false,
+        "subscriberCount": 187500
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1459749411175-04bf5292ceea?w=640&q=80",
+      "duration": "1:58:15",
+      "views": 1243987,
+      "postedAgo": "5 days ago",
+      "tags": [
+        "music",
+        "chill",
+        "acoustic",
+        "indie folk",
+        "instrumental",
+        "coffee shop",
+        "background music"
+      ],
+      "description": "Warm and cozy indie folk tracks perfect for that coffee shop atmosphere. Great for studying, working, or just enjoying some peaceful time.",
+      "category": "music-chill"
+    },
+    {
+      "id": "music-chill-5",
+      "title": "Peaceful Piano - Classical Relaxation",
+      "channel": {
+        "name": "Serenity Sounds",
+        "avatar": "https://i.pravatar.cc/80?u=serenity",
+        "verified": false,
+        "subscriberCount": 562000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=640&q=80",
+      "duration": "3:05:47",
+      "views": 2156789,
+      "postedAgo": "2 weeks ago",
+      "tags": [
+        "music",
+        "chill",
+        "instrumental",
+        "piano",
+        "classical",
+        "relaxation",
+        "meditation"
+      ],
+      "description": "Beautiful classical piano compositions perfect for relaxation, meditation, and peaceful moments. Timeless melodies to calm your mind.",
+      "category": "music-chill"
+    },
+    {
+      "id": "music-chill-6",
+      "title": "Deep Focus: Minimal Ambient Soundscapes",
+      "channel": {
+        "name": "Minimal Focus",
+        "avatar": "https://i.pravatar.cc/80?u=minimalfocus",
+        "verified": false,
+        "subscriberCount": 734000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=640&q=80",
+      "duration": "3:38:22",
+      "views": 5432167,
+      "postedAgo": "10 days ago",
+      "tags": [
+        "music",
+        "chill",
+        "instrumental",
+        "ambient",
+        "focus",
+        "minimal",
+        "concentration"
+      ],
+      "description": "Minimal ambient music designed to enhance focus and concentration. Clean, unobtrusive soundscapes perfect for deep work sessions.",
+      "category": "music-chill"
+    },
+    {
+      "id": "music-chill-7",
+      "title": "Sunset Vibes - Chillwave & Synthpop",
+      "channel": {
+        "name": "Wave Cafe Music",
+        "avatar": "https://i.pravatar.cc/80?u=wavecafe",
+        "verified": true,
+        "subscriberCount": 3120000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=640&q=80",
+      "duration": "2:41:35",
+      "views": 18934567,
+      "postedAgo": "3 weeks ago",
+      "tags": [
+        "music",
+        "chill",
+        "instrumental",
+        "chillwave",
+        "synthpop",
+        "sunset",
+        "electronic"
+      ],
+      "description": "Smooth chillwave and synthpop instrumentals to watch the sunset to. Dreamy electronic beats with retro vibes for ultimate relaxation.",
+      "category": "music-chill"
+    },
+    {
+      "id": "music-chill-8",
+      "title": "Forest Meditation - Nature Sounds & Soft Music",
+      "channel": {
+        "name": "Nature Mindfulness",
+        "avatar": "https://i.pravatar.cc/80?u=naturemind",
+        "verified": false,
+        "subscriberCount": 421000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1487180144351-b8472da7d491?w=640&q=80",
+      "duration": "1:52:14",
+      "views": 3245678,
+      "postedAgo": "4 days ago",
+      "tags": [
+        "music",
+        "chill",
+        "instrumental",
+        "nature sounds",
+        "meditation",
+        "forest",
+        "relaxation"
+      ],
+      "description": "Peaceful forest ambience combined with soft instrumental music. Perfect for meditation, sleep, or creating a calm environment at home.",
+      "category": "music-chill"
+    },
+    {
+      "id": "music-chill-9",
+      "title": "Bedroom Pop Beats - Late Night Vibes",
+      "channel": {
+        "name": "Indie Nights",
+        "avatar": "https://i.pravatar.cc/80?u=indienights",
+        "verified": false,
+        "subscriberCount": 289000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=640&q=80",
+      "duration": "2:29:47",
+      "views": 4567234,
+      "postedAgo": "1 week ago",
+      "tags": [
+        "music",
+        "chill",
+        "instrumental",
+        "bedroom pop",
+        "indie",
+        "late night",
+        "beats"
+      ],
+      "description": "Dreamy bedroom pop instrumentals perfect for late night vibes. Smooth beats and ethereal soundscapes for unwinding before bed.",
+      "category": "music-chill"
+    },
+    {
+      "id": "music-hiphop-1",
+      "title": "Drake Type Beat - Smooth Vibes 2024 | Free Hip-Hop Instrumental",
+      "channel": {
+        "name": "BeatCraft Productions",
+        "avatar": "https://i.pravatar.cc/80?u=beatcraft",
+        "verified": false,
+        "subscriberCount": 47300
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=640&q=80",
+      "duration": "3:42",
+      "views": 284156,
+      "postedAgo": "2 weeks ago",
+      "tags": [
+        "music",
+        "hip-hop",
+        "beat",
+        "instrumental",
+        "free",
+        "drake type beat"
+      ],
+      "description": "Smooth Drake type beat perfect for your next track. High quality 320kbps mp3. Available for purchase on our website.",
+      "category": "music-hiphop"
+    },
+    {
+      "id": "music-hiphop-2",
+      "title": "Underground Hip-Hop Artists You Need to Hear | Undiscovered Gems",
+      "channel": {
+        "name": "Sonic Diaries",
+        "avatar": "https://i.pravatar.cc/80?u=sonicdiaries",
+        "verified": true,
+        "subscriberCount": 156800
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=640&q=80",
+      "duration": "18:23",
+      "views": 521043,
+      "postedAgo": "3 days ago",
+      "tags": [
+        "music",
+        "hip-hop",
+        "underground",
+        "new artists",
+        "rap",
+        "playlist"
+      ],
+      "description": "Discovering the best underground hip-hop artists that deserve more attention. Full tracklist in the description below.",
+      "category": "music-hiphop"
+    },
+    {
+      "id": "music-hiphop-4",
+      "title": "Kendrick Lamar - HUMBLE. (Official Audio)",
+      "channel": {
+        "name": "TDE Music Official",
+        "avatar": "https://i.pravatar.cc/80?u=tdemusic",
+        "verified": true,
+        "subscriberCount": 8940000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1459749411175-04bf5292ceea?w=640&q=80",
+      "duration": "3:54",
+      "views": 324567890,
+      "postedAgo": "6 years ago",
+      "tags": [
+        "music",
+        "hip-hop",
+        "rap",
+        "kendrick lamar",
+        "official",
+        "audio"
+      ],
+      "description": "Official audio for HUMBLE. by Kendrick Lamar from the album DAMN. Available everywhere now.",
+      "category": "music-hiphop"
+    },
+    {
+      "id": "music-hiphop-5",
+      "title": "Lofi Hip-Hop Mix - Study & Relax Beats [1 Hour]",
+      "channel": {
+        "name": "Chill Beats Daily",
+        "avatar": "https://i.pravatar.cc/80?u=chillbeatsdaily",
+        "verified": false,
+        "subscriberCount": 234500
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=640&q=80",
+      "duration": "60:08",
+      "views": 2156734,
+      "postedAgo": "5 days ago",
+      "tags": [
+        "music",
+        "hip-hop",
+        "lofi",
+        "study",
+        "relaxation",
+        "beats"
+      ],
+      "description": "1 hour of premium lofi hip-hop beats for studying, working, or relaxing. Perfect background music.",
+      "category": "music-hiphop"
+    },
+    {
+      "id": "music-hiphop-6",
+      "title": "Nas - 'Illmatic' Album Review | One of the Greatest Hip-Hop Albums",
+      "channel": {
+        "name": "Hip-Hop History Channel",
+        "avatar": "https://i.pravatar.cc/80?u=hiphophistory",
+        "verified": false,
+        "subscriberCount": 67800
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1487180144351-b8472da7d491?w=640&q=80",
+      "duration": "15:46",
+      "views": 89234,
+      "postedAgo": "2 months ago",
+      "tags": [
+        "music",
+        "hip-hop",
+        "album review",
+        "nas",
+        "illmatic",
+        "classic"
+      ],
+      "description": "Deep dive into Nas's legendary 1994 album 'Illmatic' and why it's considered one of the greatest hip-hop albums ever made.",
+      "category": "music-hiphop"
+    },
+    {
+      "id": "music-hiphop-7",
+      "title": "5 Essential Hip-Hop Samples You Need to Know",
+      "channel": {
+        "name": "Wax & Vinyl Chronicles",
+        "avatar": "https://i.pravatar.cc/80?u=waxvinyl",
+        "verified": false,
+        "subscriberCount": 41200
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=640&q=80",
+      "duration": "11:32",
+      "views": 156780,
+      "postedAgo": "3 weeks ago",
+      "tags": [
+        "music",
+        "hip-hop",
+        "sampling",
+        "production",
+        "beats",
+        "classic samples"
+      ],
+      "description": "The most famous and influential samples used in hip-hop history. From James Brown to Quincy Jones.",
+      "category": "music-hiphop"
+    },
+    {
+      "id": "music-hiphop-8",
+      "title": "J. Cole - No Role Modelz (Lyric Video)",
+      "channel": {
+        "name": "Dreamville Records",
+        "avatar": "https://i.pravatar.cc/80?u=dreamville",
+        "verified": true,
+        "subscriberCount": 5670000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=640&q=80",
+      "duration": "4:33",
+      "views": 287654123,
+      "postedAgo": "8 years ago",
+      "tags": [
+        "music",
+        "hip-hop",
+        "j cole",
+        "no role modelz",
+        "lyric video",
+        "2014 forest hills drive"
+      ],
+      "description": "Lyric video for 'No Role Modelz' from J. Cole's album 2014 Forest Hills Drive. Stream the full album on all platforms.",
+      "category": "music-hiphop"
+    },
+    {
+      "id": "music-hiphop-9",
+      "title": "Best Hip-Hop Freestyles of 2024 | Bars & Wordplay",
+      "channel": {
+        "name": "Rap Empire",
+        "avatar": "https://i.pravatar.cc/80?u=rapempire",
+        "verified": false,
+        "subscriberCount": 123600
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=640&q=80",
+      "duration": "22:15",
+      "views": 432156,
+      "postedAgo": "1 week ago",
+      "tags": [
+        "music",
+        "hip-hop",
+        "freestyle",
+        "rap",
+        "2024",
+        "bars"
+      ],
+      "description": "Compilation of the best hip-hop freestyles and cypher moments from 2024. Featuring emerging and established artists.",
+      "category": "music-hiphop"
+    },
+    {
+      "id": "music-rock-1",
+      "title": "Arctic Monkeys - Fluorescent Adolescent (Live Acoustic Cover)",
+      "channel": {
+        "name": "Indie Sessions",
+        "avatar": "https://i.pravatar.cc/80?u=indiesessions",
+        "verified": false,
+        "subscriberCount": 284000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=640&q=80",
+      "duration": "4:23",
+      "views": 847000,
+      "postedAgo": "3 weeks ago",
+      "tags": [
+        "music",
+        "rock",
+        "acoustic",
+        "cover",
+        "arctic monkeys",
+        "indie rock"
+      ],
+      "description": "A stripped-down acoustic rendition of Arctic Monkeys' classic hit. Recorded in our studio with minimal production to capture the raw emotion of this iconic track.",
+      "category": "music-rock"
+    },
+    {
+      "id": "music-rock-5",
+      "title": "Pink Floyd - Comfortably Numb (Full Guitar Lesson & Performance)",
+      "channel": {
+        "name": "Progressive Rock University",
+        "avatar": "https://i.pravatar.cc/80?u=progrockuniv",
+        "verified": false,
+        "subscriberCount": 482000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1510915361894-db8b60106cb1?w=640&q=80",
+      "duration": "12:34",
+      "views": 1680000,
+      "postedAgo": "4 months ago",
+      "tags": [
+        "music",
+        "rock",
+        "guitar lesson",
+        "pink floyd",
+        "tutorial",
+        "progressive rock"
+      ],
+      "description": "Complete breakdown of David Gilmour's legendary guitar solo from Comfortably Numb. Step-by-step lesson covering technique, tone, and the emotional delivery.",
+      "category": "music-rock"
+    },
+    {
+      "id": "music-rock-6",
+      "title": "Grunge Deep Dive - Nirvana B-Sides & Rare Recordings",
+      "channel": {
+        "name": "Alternative Vault",
+        "avatar": "https://i.pravatar.cc/80?u=altvault",
+        "verified": false,
+        "subscriberCount": 328000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=640&q=80",
+      "duration": "47:12",
+      "views": 892000,
+      "postedAgo": "2 months ago",
+      "tags": [
+        "music",
+        "rock",
+        "nirvana",
+        "grunge",
+        "b-sides",
+        "compilation"
+      ],
+      "description": "A comprehensive collection of Nirvana's B-side tracks and unreleased recordings. We explore the raw origins of grunge through Kurt Cobain's early material.",
+      "category": "music-rock"
+    },
+    {
+      "id": "music-rock-7",
+      "title": "Modern Rock Anthem - The 1975 'Chocolate' (Music Video Breakdown)",
+      "channel": {
+        "name": "Music Video Reaction Lab",
+        "avatar": "https://i.pravatar.cc/80?u=mvreactionlab",
+        "verified": false,
+        "subscriberCount": 241000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=640&q=80",
+      "duration": "11:23",
+      "views": 367000,
+      "postedAgo": "3 weeks ago",
+      "tags": [
+        "music",
+        "rock",
+        "the 1975",
+        "music video",
+        "modern rock",
+        "reaction"
+      ],
+      "description": "Scene-by-scene analysis of The 1975's cinematic music video. We discuss cinematography, symbolism, and the sonic landscape of contemporary rock.",
+      "category": "music-rock"
+    },
+    {
+      "id": "music-rock-8",
+      "title": "Bass Riff Masterclass - Red Hot Chili Peppers Funk Rock Techniques",
+      "channel": {
+        "name": "Low End Lessons",
+        "avatar": "https://i.pravatar.cc/80?u=lowendlessons",
+        "verified": false,
+        "subscriberCount": 195000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=640&q=80",
+      "duration": "18:47",
+      "views": 543000,
+      "postedAgo": "1 month ago",
+      "tags": [
+        "music",
+        "rock",
+        "bass",
+        "tutorial",
+        "rhcp",
+        "funk rock"
+      ],
+      "description": "Learn the slap bass and funk rock techniques pioneered by Flea. We break down signature RHCP grooves with tabs and slow-motion demonstrations.",
+      "category": "music-rock"
+    },
+    {
+      "id": "music-rock-9",
+      "title": "Punk Rock Origins - The Sex Pistols Documentary Analysis",
+      "channel": {
+        "name": "Rock History Archives",
+        "avatar": "https://i.pravatar.cc/80?u=rockhistory",
+        "verified": true,
+        "subscriberCount": 876000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=640&q=80",
+      "duration": "34:56",
+      "views": 1120000,
+      "postedAgo": "6 months ago",
+      "tags": [
+        "music",
+        "rock",
+        "punk rock",
+        "sex pistols",
+        "documentary",
+        "history"
+      ],
+      "description": "In-depth examination of punk rock's revolutionary beginning through The Sex Pistols. Cultural impact, musical innovation, and the chaos that defined a generation.",
+      "category": "music-rock"
+    },
+    {
+      "id": "music-electronic-1",
+      "title": "Deep House Mix 2024 | Relaxing Electronic Beats for Study",
+      "channel": {
+        "name": "Chillwave Records",
+        "avatar": "https://i.pravatar.cc/80?u=chillwave",
+        "verified": true,
+        "subscriberCount": 187000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=640&q=80",
+      "duration": "47:32",
+      "views": 284000,
+      "postedAgo": "2 weeks ago",
+      "tags": [
+        "music",
+        "electronic",
+        "deep house",
+        "study beats",
+        "ambient",
+        "relaxing"
+      ],
+      "description": "A curated deep house mix perfect for studying, working, or relaxing. Featuring emerging electronic producers from around the world.",
+      "category": "music-electronic"
+    },
+    {
+      "id": "music-electronic-3",
+      "title": "Synthpop Classics | 80s Electronic Music Hits Playlist",
+      "channel": {
+        "name": "Retro Synth Vibes",
+        "avatar": "https://i.pravatar.cc/80?u=retrosynth",
+        "verified": true,
+        "subscriberCount": 523000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1487180144351-b8472da7d491?w=640&q=80",
+      "duration": "1:23:45",
+      "views": 1200000,
+      "postedAgo": "3 months ago",
+      "tags": [
+        "music",
+        "electronic",
+        "synthpop",
+        "80s music",
+        "retro",
+        "playlist"
+      ],
+      "description": "The best synthpop and electronic hits from the 1980s. Featuring Depeche Mode, New Order, Pet Shop Boys, and more classic tracks.",
+      "category": "music-electronic"
+    },
+    {
+      "id": "music-electronic-4",
+      "title": "Ambient Electronic Music for Sleep | 8 Hour Meditation",
+      "channel": {
+        "name": "Zenith Sounds",
+        "avatar": "https://i.pravatar.cc/80?u=zenith",
+        "verified": false,
+        "subscriberCount": 89000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=640&q=80",
+      "duration": "8:02:15",
+      "views": 342000,
+      "postedAgo": "5 months ago",
+      "tags": [
+        "music",
+        "electronic",
+        "ambient",
+        "sleep music",
+        "meditation",
+        "relaxation"
+      ],
+      "description": "8 hours of calming ambient electronic music designed to help you sleep deeply and peacefully. Perfect for bedtime or meditation.",
+      "category": "music-electronic"
+    },
+    {
+      "id": "music-electronic-5",
+      "title": "Future Bass Drop Compilation | Best EDM 2024",
+      "channel": {
+        "name": "Electronic Pulse",
+        "avatar": "https://i.pravatar.cc/80?u=pulse",
+        "verified": true,
+        "subscriberCount": 412000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1459749411175-04bf5292ceea?w=640&q=80",
+      "duration": "58:20",
+      "views": 892000,
+      "postedAgo": "2 weeks ago",
+      "tags": [
+        "music",
+        "electronic",
+        "future bass",
+        "edm",
+        "dubstep",
+        "party"
+      ],
+      "description": "Explosive future bass drops and heavy electronic tracks. Perfect for gym sessions or party vibes. Featuring tracks from top EDM artists.",
+      "category": "music-electronic"
+    },
+    {
+      "id": "music-electronic-6",
+      "title": "Creating Serum Wavetables from Scratch | Sound Design",
+      "channel": {
+        "name": "Digital Synthesis Lab",
+        "avatar": "https://i.pravatar.cc/80?u=synthesis",
+        "verified": false,
+        "subscriberCount": 23000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=640&q=80",
+      "duration": "41:07",
+      "views": 31000,
+      "postedAgo": "6 weeks ago",
+      "tags": [
+        "music",
+        "electronic",
+        "sound design",
+        "serum",
+        "wavetable",
+        "tutorial"
+      ],
+      "description": "Advanced guide to creating custom wavetables in Serum for unique electronic sounds. Includes frequency analysis and modulation techniques.",
+      "category": "music-electronic"
+    },
+    {
+      "id": "music-electronic-7",
+      "title": "Minimal Techno Journey | Berlin Underground Mix",
+      "channel": {
+        "name": "Groove Collective",
+        "avatar": "https://i.pravatar.cc/80?u=groove",
+        "verified": true,
+        "subscriberCount": 267000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=640&q=80",
+      "duration": "52:44",
+      "views": 427000,
+      "postedAgo": "3 weeks ago",
+      "tags": [
+        "music",
+        "electronic",
+        "minimal techno",
+        "house",
+        "dj mix",
+        "underground"
+      ],
+      "description": "A hypnotic minimal techno journey inspired by the Berlin underground scene. Perfect for late-night listening and dancing.",
+      "category": "music-electronic"
+    },
+    {
+      "id": "music-electronic-8",
+      "title": "Vaporwave Aesthetic | Nostalgic Electronic Compilation",
+      "channel": {
+        "name": "Pixel Dreams Music",
+        "avatar": "https://i.pravatar.cc/80?u=pixeldreams",
+        "verified": false,
+        "subscriberCount": 156000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=640&q=80",
+      "duration": "43:15",
+      "views": 521000,
+      "postedAgo": "1 month ago",
+      "tags": [
+        "music",
+        "electronic",
+        "vaporwave",
+        "aesthetic",
+        "lo-fi",
+        "chillwave"
+      ],
+      "description": "A nostalgic vaporwave compilation blending retro electronic sounds with modern production. Atmospheric and surreal.",
+      "category": "music-electronic"
+    },
+    {
+      "id": "music-electronic-9",
+      "title": "UK Garage & Drum & Bass Mix | Fast-Paced Electronic",
+      "channel": {
+        "name": "Bass Culture",
+        "avatar": "https://i.pravatar.cc/80?u=bassculture",
+        "verified": true,
+        "subscriberCount": 334000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=640&q=80",
+      "duration": "54:32",
+      "views": 673000,
+      "postedAgo": "10 days ago",
+      "tags": [
+        "music",
+        "electronic",
+        "drum and bass",
+        "uk garage",
+        "dnb",
+        "liquid"
+      ],
+      "description": "High-energy UK garage and drum & bass tracks featuring fast breakbeats and rolling basslines. Perfect for active listening.",
+      "category": "music-electronic"
+    },
+    {
+      "id": "music-indie-1",
+      "title": "Lo-Fi Bedroom Pop Demo - First Single",
+      "channel": {
+        "name": "Luna Echo Studios",
+        "avatar": "https://i.pravatar.cc/80?u=luna-echo-studios",
+        "verified": false,
+        "subscriberCount": 3420
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=640&q=80",
+      "duration": "3:47",
+      "views": 12840,
+      "postedAgo": "2 weeks ago",
+      "tags": [
+        "music",
+        "indie",
+        "bedroom pop",
+        "lo-fi",
+        "original music"
+      ],
+      "description": "My first official single released independently. Recorded in my bedroom with just a guitar and some synths. Hope you enjoy!",
+      "category": "music-indie"
+    },
+    {
+      "id": "music-indie-3",
+      "title": "Indie Rock Band Live Session - The Stardust Collective",
+      "channel": {
+        "name": "Stardust Collective",
+        "avatar": "https://i.pravatar.cc/80?u=stardust-collective",
+        "verified": false,
+        "subscriberCount": 5890
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=640&q=80",
+      "duration": "18:15",
+      "views": 28450,
+      "postedAgo": "5 days ago",
+      "tags": [
+        "music",
+        "indie",
+        "rock",
+        "live session",
+        "alternative"
+      ],
+      "description": "Recorded live in our studio. Three new tracks from our upcoming album. No overdubs, just raw indie rock.",
+      "category": "music-indie"
+    },
+    {
+      "id": "music-indie-4",
+      "title": "How I Produce Indie Electronic Music - Studio Tour & Tips",
+      "channel": {
+        "name": "Pixel Wave Productions",
+        "avatar": "https://i.pravatar.cc/80?u=pixel-wave",
+        "verified": false,
+        "subscriberCount": 12300
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=640&q=80",
+      "duration": "16:42",
+      "views": 41230,
+      "postedAgo": "1 week ago",
+      "tags": [
+        "music",
+        "indie",
+        "electronic",
+        "production",
+        "tutorial"
+      ],
+      "description": "Full tour of my home studio setup and breakdown of my production process for indie electronic music.",
+      "category": "music-indie"
+    },
+    {
+      "id": "music-indie-5",
+      "title": "Indie Pop Lyric Video - 'Neon Dreams'",
+      "channel": {
+        "name": "VXRA",
+        "avatar": "https://i.pravatar.cc/80?u=vxra-artist",
+        "verified": true,
+        "subscriberCount": 142800
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=640&q=80",
+      "duration": "4:02",
+      "views": 892100,
+      "postedAgo": "2 months ago",
+      "tags": [
+        "music",
+        "indie",
+        "pop",
+        "lyric video",
+        "original"
+      ],
+      "description": "Official lyric video for 'Neon Dreams' - the lead single from my debut EP. Out now on all platforms!",
+      "category": "music-indie"
+    },
+    {
+      "id": "music-indie-6",
+      "title": "Indie Artists React to New Music - Episode 3",
+      "channel": {
+        "name": "The Independent Sound",
+        "avatar": "https://i.pravatar.cc/80?u=indie-sound-react",
+        "verified": false,
+        "subscriberCount": 8760
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1487180144351-b8472da7d491?w=640&q=80",
+      "duration": "31:18",
+      "views": 19340,
+      "postedAgo": "4 days ago",
+      "tags": [
+        "music",
+        "indie",
+        "reaction",
+        "music discussion",
+        "independent"
+      ],
+      "description": "Local indie artists react to and discuss recent indie releases. Featuring artists from the underground scene.",
+      "category": "music-indie"
+    },
+    {
+      "id": "music-indie-7",
+      "title": "DIY Recording: Making an Indie Album for Under $500",
+      "channel": {
+        "name": "Budget Beat Studios",
+        "avatar": "https://i.pravatar.cc/80?u=budget-beat",
+        "verified": false,
+        "subscriberCount": 34560
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1505142468610-359e7d316be0?w=640&q=80",
+      "duration": "22:51",
+      "views": 67890,
+      "postedAgo": "1 week ago",
+      "tags": [
+        "music",
+        "indie",
+        "DIY",
+        "budget recording",
+        "tutorial"
+      ],
+      "description": "Complete guide to recording a full indie album in your bedroom without spending much money.",
+      "category": "music-indie"
+    },
+    {
+      "id": "music-indie-8",
+      "title": "Indie Singer-Songwriter - 'Autumn Leaves' (Official Music Video)",
+      "channel": {
+        "name": "River Stone Music",
+        "avatar": "https://i.pravatar.cc/80?u=river-stone",
+        "verified": true,
+        "subscriberCount": 234500
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1459749411175-04bf5292ceea?w=640&q=80",
+      "duration": "5:23",
+      "views": 2340100,
+      "postedAgo": "3 months ago",
+      "tags": [
+        "music",
+        "indie",
+        "singer-songwriter",
+        "music video",
+        "emotional"
+      ],
+      "description": "Official music video for 'Autumn Leaves'. Filmed across the countryside during fall season.",
+      "category": "music-indie"
+    },
+    {
+      "id": "music-indie-9",
+      "title": "Bedroom Indie Pop - 'Golden Hour' (Unreleased Track)",
+      "channel": {
+        "name": "Echo Chamber Sounds",
+        "avatar": "https://i.pravatar.cc/80?u=echo-chamber",
+        "verified": false,
+        "subscriberCount": 6420
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=640&q=80",
+      "duration": "3:34",
+      "views": 8920,
+      "postedAgo": "9 days ago",
+      "tags": [
+        "music",
+        "indie",
+        "pop",
+        "bedroom recording",
+        "unreleased"
+      ],
+      "description": "A track that didn't make the cut for my EP, but I really wanted to share it with you all.",
+      "category": "music-indie"
+    },
+    {
+      "id": "music-indie-10",
+      "title": "Indie Music Discovery - 5 Underground Artists You Need to Hear",
+      "channel": {
+        "name": "Underground Vibes",
+        "avatar": "https://i.pravatar.cc/80?u=underground-vibes",
+        "verified": false,
+        "subscriberCount": 23100
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=640&q=80",
+      "duration": "14:47",
+      "views": 45670,
+      "postedAgo": "6 days ago",
+      "tags": [
+        "music",
+        "indie",
+        "discovery",
+        "underground artists",
+        "recommendations"
+      ],
+      "description": "Showcasing 5 incredible indie artists that deserve way more recognition. All independent releases.",
+      "category": "music-indie"
+    },
+    {
+      "id": "gaming-4",
+      "title": "Hogwarts Legacy - All Collectibles Guide (Complete Walkthrough)",
+      "channel": {
+        "name": "Gaming Guides Pro",
+        "avatar": "https://i.pravatar.cc/80?u=gaming_guides_pro",
+        "verified": false,
+        "subscriberCount": 234000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1560169897-fc0cdbdfa4d5?w=640&q=80",
+      "duration": "1:47:32",
+      "views": 876000,
+      "postedAgo": "5 days ago",
+      "tags": [
+        "gaming",
+        "hogwarts legacy",
+        "guide",
+        "collectibles",
+        "walkthrough",
+        "rpg"
+      ],
+      "description": "Complete guide to finding all collectibles in Hogwarts Legacy. This includes all chests, field guide pages, and secret areas. Perfect for 100% completion!",
+      "category": "gaming"
+    },
+    {
+      "id": "gaming-5",
+      "title": "Cyberpunk 2077 Ray Tracing Ultra vs High - Graphics Comparison",
+      "channel": {
+        "name": "Tech Gaming Reviews",
+        "avatar": "https://i.pravatar.cc/80?u=tech_gaming_reviews",
+        "verified": true,
+        "subscriberCount": 567000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1556656793-08538906a9f8?w=640&q=80",
+      "duration": "12:45",
+      "views": 3421000,
+      "postedAgo": "10 days ago",
+      "tags": [
+        "gaming",
+        "cyberpunk 2077",
+        "graphics",
+        "ray tracing",
+        "pc gaming",
+        "performance"
+      ],
+      "description": "Detailed graphics comparison between Ray Tracing Ultra and High settings in Cyberpunk 2077. We test FPS, visual fidelity, and performance on RTX 4090.",
+      "category": "gaming"
+    },
+    {
+      "id": "gaming-6",
+      "title": "Stardew Valley 100% Perfection - Complete Save File Showcase",
+      "channel": {
+        "name": "Cozy Gaming Vibes",
+        "avatar": "https://i.pravatar.cc/80?u=cozy_gaming_vibes",
+        "verified": false,
+        "subscriberCount": 89000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1535241749838-299277b6305f?w=640&q=80",
+      "duration": "28:16",
+      "views": 542000,
+      "postedAgo": "2 weeks ago",
+      "tags": [
+        "gaming",
+        "stardew valley",
+        "100%",
+        "perfection",
+        "farm showcase",
+        "relaxing"
+      ],
+      "description": "After 300+ hours, I finally achieved 100% perfection in Stardew Valley! Here's a tour of my complete farm with all relationships maxed out.",
+      "category": "gaming"
+    },
+    {
+      "id": "cooking-1",
+      "title": "How to Make Perfect Homemade Pasta from Scratch - Beginner's Guide",
+      "channel": {
+        "name": "Kitchen Essentials with Marco",
+        "avatar": "https://i.pravatar.cc/80?u=marco_kitchen",
+        "verified": true,
+        "subscriberCount": 287000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?w=640&q=80",
+      "duration": "12:47",
+      "views": 1240000,
+      "postedAgo": "3 weeks ago",
+      "tags": [
+        "cooking",
+        "tutorial",
+        "pasta",
+        "homemade",
+        "italian cooking",
+        "beginner friendly"
+      ],
+      "description": "Learn how to make authentic Italian pasta at home with just 3 ingredients. This step-by-step tutorial covers kneading, rolling, and cutting techniques.",
+      "category": "cooking"
+    },
+    {
+      "id": "cooking-2",
+      "title": "Quick 15-Minute Weeknight Stir Fry - 3 Easy Recipes",
+      "channel": {
+        "name": "Busy Mom's Kitchen",
+        "avatar": "https://i.pravatar.cc/80?u=busymom_cooking",
+        "verified": false,
+        "subscriberCount": 156000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1609501676725-7186f017a4b7?w=640&q=80",
+      "duration": "8:23",
+      "views": 890000,
+      "postedAgo": "2 months ago",
+      "tags": [
+        "cooking",
+        "tutorial",
+        "stir fry",
+        "weeknight meals",
+        "quick recipes",
+        "easy cooking"
+      ],
+      "description": "Three delicious stir fry recipes that take only 15 minutes from start to finish. Perfect for busy weeknights with kids.",
+      "category": "cooking"
+    },
+    {
+      "id": "cooking-4",
+      "title": "Crispy Chicken Wings 5 Different Sauces - Game Day Special",
+      "channel": {
+        "name": "Street Food Secrets",
+        "avatar": "https://i.pravatar.cc/80?u=street_food_tv",
+        "verified": false,
+        "subscriberCount": 423000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?w=640&q=80",
+      "duration": "16:54",
+      "views": 3450000,
+      "postedAgo": "6 days ago",
+      "tags": [
+        "cooking",
+        "tutorial",
+        "chicken wings",
+        "sauces",
+        "appetizers",
+        "game day food"
+      ],
+      "description": "Learn how to get perfectly crispy wings using a two-stage cooking method, plus 5 crowd-pleasing sauce recipes.",
+      "category": "cooking"
+    },
+    {
+      "id": "cooking-5",
+      "title": "Complete Guide to Making Sourdough Bread - Starter to Loaf",
+      "channel": {
+        "name": "The Bread Geek",
+        "avatar": "https://i.pravatar.cc/80?u=breadgeek",
+        "verified": true,
+        "subscriberCount": 678000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=640&q=80",
+      "duration": "28:42",
+      "views": 1850000,
+      "postedAgo": "5 weeks ago",
+      "tags": [
+        "cooking",
+        "tutorial",
+        "sourdough",
+        "bread baking",
+        "fermentation",
+        "advanced"
+      ],
+      "description": "Comprehensive tutorial covering starter creation, bulk fermentation, shaping, and baking. Includes troubleshooting tips.",
+      "category": "cooking"
+    },
+    {
+      "id": "cooking-7",
+      "title": "5-Ingredient Chocolate Cake - No Mixer Required",
+      "channel": {
+        "name": "Simple Desserts Daily",
+        "avatar": "https://i.pravatar.cc/80?u=simpledesserts",
+        "verified": false,
+        "subscriberCount": 312000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=640&q=80",
+      "duration": "9:31",
+      "views": 2120000,
+      "postedAgo": "10 days ago",
+      "tags": [
+        "cooking",
+        "tutorial",
+        "desserts",
+        "baking",
+        "cake",
+        "easy recipe"
+      ],
+      "description": "Incredibly simple chocolate cake using just 5 ingredients. Mix by hand and bake to perfection. Perfect for beginners.",
+      "category": "cooking"
+    },
+    {
+      "id": "cooking-8",
+      "title": "Homemade Sushi - Rice, Rolls, and Nigiri Techniques",
+      "channel": {
+        "name": "Tokyo Home Cooking",
+        "avatar": "https://i.pravatar.cc/80?u=tokyo_cooking",
+        "verified": true,
+        "subscriberCount": 891000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1579584425555-c3ce17fd4351?w=640&q=80",
+      "duration": "22:07",
+      "views": 4560000,
+      "postedAgo": "3 weeks ago",
+      "tags": [
+        "cooking",
+        "tutorial",
+        "sushi",
+        "japanese cuisine",
+        "step by step",
+        "techniques"
+      ],
+      "description": "Complete sushi tutorial including perfect rice seasoning, maki rolls, nigiri, and plating. Professional-level techniques explained simply.",
+      "category": "cooking"
+    },
+    {
+      "id": "cooking-9",
+      "title": "Cast Iron Skillet Care & Maintenance - Complete Tutorial",
+      "channel": {
+        "name": "Chef's Kitchen Tools",
+        "avatar": "https://i.pravatar.cc/80?u=cheftools",
+        "verified": false,
+        "subscriberCount": 178000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=640&q=80",
+      "duration": "13:29",
+      "views": 445000,
+      "postedAgo": "1 month ago",
+      "tags": [
+        "cooking",
+        "tutorial",
+        "cast iron",
+        "kitchen tools",
+        "maintenance",
+        "seasoning"
+      ],
+      "description": "Learn proper cleaning, seasoning, and maintenance of cast iron cookware. Includes tips for restoring vintage pieces.",
+      "category": "cooking"
+    },
+    {
+      "id": "cooking-10",
+      "title": "Classic French Onion Soup - Restaurant Quality at Home",
+      "channel": {
+        "name": "French Cuisine Mastery",
+        "avatar": "https://i.pravatar.cc/80?u=frenchcuisine",
+        "verified": true,
+        "subscriberCount": 523000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=640&q=80",
+      "duration": "19:43",
+      "views": 1670000,
+      "postedAgo": "4 weeks ago",
+      "tags": [
+        "cooking",
+        "tutorial",
+        "soup",
+        "french cuisine",
+        "caramelization",
+        "comfort food"
+      ],
+      "description": "Authentic French onion soup with caramelized onions, beef broth, and crusty bread. Learn the secrets to deep flavor.",
+      "category": "cooking"
+    },
+    {
+      "id": "tech-reviews-3",
+      "title": "Samsung Galaxy Z Fold 5 Durability Test - Does It Survive?",
+      "channel": {
+        "name": "Device Durability Lab",
+        "avatar": "https://i.pravatar.cc/80?u=devicedurabilitylab",
+        "verified": false,
+        "subscriberCount": 234000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=640&q=80",
+      "duration": "18:15",
+      "views": 891000,
+      "postedAgo": "1 month ago",
+      "tags": [
+        "tech",
+        "review",
+        "durability test",
+        "foldable phone",
+        "Samsung Galaxy"
+      ],
+      "description": "Complete durability assessment including bend test, scratch test, and long-term hinge performance.",
+      "category": "tech-reviews"
+    },
+    {
+      "id": "tech-reviews-4",
+      "title": "iPad Air 6 vs iPad Pro: Which Should You Buy in 2024?",
+      "channel": {
+        "name": "Apple Ecosystem Insider",
+        "avatar": "https://i.pravatar.cc/80?u=appleecosystem",
+        "verified": true,
+        "subscriberCount": 845000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?w=640&q=80",
+      "duration": "16:28",
+      "views": 3124000,
+      "postedAgo": "10 days ago",
+      "tags": [
+        "tech",
+        "review",
+        "iPad",
+        "tablet",
+        "Apple",
+        "comparison"
+      ],
+      "description": "Full comparison of specs, performance, display, and value. Includes real-world usage scenarios.",
+      "category": "tech-reviews"
+    },
+    {
+      "id": "tech-reviews-5",
+      "title": "Sony WH-1000XM5 Headphones Review - Noise Cancellation King?",
+      "channel": {
+        "name": "Audio Tech Reviews",
+        "avatar": "https://i.pravatar.cc/80?u=audiotechreviews",
+        "verified": false,
+        "subscriberCount": 156000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=640&q=80",
+      "duration": "12:54",
+      "views": 567000,
+      "postedAgo": "5 weeks ago",
+      "tags": [
+        "tech",
+        "review",
+        "headphones",
+        "Sony",
+        "audio",
+        "noise cancellation"
+      ],
+      "description": "Testing noise cancellation, sound quality, comfort, and battery life. Comparison with Bose QC45.",
+      "category": "tech-reviews"
+    },
+    {
+      "id": "tech-reviews-6",
+      "title": "M3 MacBook Pro 14-inch: Raw Performance Analysis",
+      "channel": {
+        "name": "Pro Tech Benchmarks",
+        "avatar": "https://i.pravatar.cc/80?u=protechbenchmarks",
+        "verified": true,
+        "subscriberCount": 523000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=640&q=80",
+      "duration": "19:33",
+      "views": 2456000,
+      "postedAgo": "2 weeks ago",
+      "tags": [
+        "tech",
+        "review",
+        "MacBook",
+        "M3 chip",
+        "performance",
+        "laptop"
+      ],
+      "description": "CPU and GPU benchmarks, thermal performance under load, and real-world editing tests.",
+      "category": "tech-reviews"
+    },
+    {
+      "id": "tech-reviews-9",
+      "title": "Anker PowerBank 737: 24000mAh Real Capacity Test",
+      "channel": {
+        "name": "Tech Gadget Lab",
+        "avatar": "https://i.pravatar.cc/80?u=techgadgetlab",
+        "verified": false,
+        "subscriberCount": 189000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5?w=640&q=80",
+      "duration": "11:07",
+      "views": 623000,
+      "postedAgo": "1 month ago",
+      "tags": [
+        "tech",
+        "review",
+        "power bank",
+        "Anker",
+        "portable charger",
+        "battery test"
+      ],
+      "description": "Actual capacity test, charging speed, efficiency rating, and comparison with competitors.",
+      "category": "tech-reviews"
+    },
+    {
+      "id": "news-1",
+      "title": "Breaking: Major Policy Changes Announced in Today's Press Conference",
+      "channel": {
+        "name": "Daily News Network",
+        "avatar": "https://i.pravatar.cc/80?u=dailynewsnetwork",
+        "verified": true,
+        "subscriberCount": 2840000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1495521821757-a1efb6729352?w=640&q=80",
+      "duration": "8:42",
+      "views": 524000,
+      "postedAgo": "2 hours ago",
+      "tags": [
+        "news",
+        "breaking news",
+        "policy",
+        "government",
+        "press conference"
+      ],
+      "description": "Live coverage and analysis of today's major policy announcement. Our correspondents break down what this means for citizens and the economy.",
+      "category": "news"
+    },
+    {
+      "id": "news-3",
+      "title": "Market Analysis: Stock Futures React to Fed Interest Rate Decision",
+      "channel": {
+        "name": "Financial News Daily",
+        "avatar": "https://i.pravatar.cc/80?u=financialnewsdaily",
+        "verified": true,
+        "subscriberCount": 3120000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=640&q=80",
+      "duration": "12:34",
+      "views": 156000,
+      "postedAgo": "4 hours ago",
+      "tags": [
+        "news",
+        "finance",
+        "stocks",
+        "market",
+        "economy",
+        "fed"
+      ],
+      "description": "In-depth analysis of how markets are responding to the Federal Reserve's latest interest rate decision. Expert commentary on what's next for investors.",
+      "category": "news"
+    },
+    {
+      "id": "news-4",
+      "title": "Local Investigation: City Council Approves New Infrastructure Development Plan",
+      "channel": {
+        "name": "Metro City News",
+        "avatar": "https://i.pravatar.cc/80?u=metrocitynews",
+        "verified": false,
+        "subscriberCount": 487000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=640&q=80",
+      "duration": "9:56",
+      "views": 34000,
+      "postedAgo": "6 hours ago",
+      "tags": [
+        "news",
+        "local news",
+        "city council",
+        "infrastructure",
+        "development"
+      ],
+      "description": "The city council voted 8-2 to approve a $2.3 billion infrastructure development plan. We break down what projects will be funded and impact on local residents.",
+      "category": "news"
+    },
+    {
+      "id": "news-5",
+      "title": "International Update: Peace Negotiations Resume in Eastern Europe",
+      "channel": {
+        "name": "Global Affairs Network",
+        "avatar": "https://i.pravatar.cc/80?u=globalaffairsnetwork",
+        "verified": true,
+        "subscriberCount": 2560000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=640&q=80",
+      "duration": "14:22",
+      "views": 287000,
+      "postedAgo": "3 hours ago",
+      "tags": [
+        "news",
+        "international news",
+        "politics",
+        "diplomacy",
+        "peace talks"
+      ],
+      "description": "Diplomatic efforts continue as peace negotiations resume. Our international correspondent reports from the region with the latest developments.",
+      "category": "news"
+    },
+    {
+      "id": "news-9",
+      "title": "Environmental Report: Arctic Ice Loss Accelerates Faster Than Previously Predicted",
+      "channel": {
+        "name": "Earth & Environment News",
+        "avatar": "https://i.pravatar.cc/80?u=earthenvironmentnews",
+        "verified": false,
+        "subscriberCount": 876000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1446776653964-20c1d3a81b06?w=640&q=80",
+      "duration": "13:41",
+      "views": 145000,
+      "postedAgo": "12 hours ago",
+      "tags": [
+        "news",
+        "environment",
+        "climate change",
+        "science",
+        "arctic"
+      ],
+      "description": "New satellite data reveals alarming trends in Arctic ice loss. Climate scientists discuss the implications for global weather patterns and sea levels.",
+      "category": "news"
+    },
+    {
+      "id": "news-10",
+      "title": "Crime Report: Major Cybercrime Network Dismantled by International Law Enforcement",
+      "channel": {
+        "name": "Crime & Justice News",
+        "avatar": "https://i.pravatar.cc/80?u=crimejusticenews",
+        "verified": true,
+        "subscriberCount": 2190000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=640&q=80",
+      "duration": "9:27",
+      "views": 256000,
+      "postedAgo": "18 hours ago",
+      "tags": [
+        "news",
+        "crime",
+        "cybercrime",
+        "law enforcement",
+        "investigation"
+      ],
+      "description": "A coordinated international operation has successfully dismantled a major cybercrime network. Details on the investigation and charges against key operators.",
+      "category": "news"
+    },
+    {
+      "id": "education-1",
+      "title": "How to Master Python List Comprehensions in 12 Minutes",
+      "channel": {
+        "name": "Code Mastery Pro",
+        "avatar": "https://i.pravatar.cc/80?u=codemastery",
+        "verified": true,
+        "subscriberCount": 287000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=640&q=80",
+      "duration": "12:34",
+      "views": 156000,
+      "postedAgo": "3 weeks ago",
+      "tags": [
+        "education",
+        "tutorial",
+        "python",
+        "programming",
+        "beginners"
+      ],
+      "description": "Learn Python list comprehensions from scratch. This tutorial covers syntax, use cases, and common patterns to write cleaner code faster.",
+      "category": "education"
+    },
+    {
+      "id": "education-2",
+      "title": "AP Chemistry Exam Prep: Equilibrium Problems Explained",
+      "channel": {
+        "name": "Chemistry with Ms. Garcia",
+        "avatar": "https://i.pravatar.cc/80?u=chemistrygarcia",
+        "verified": false,
+        "subscriberCount": 94000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1530124566582-a618bc2615dc?w=640&q=80",
+      "duration": "24:18",
+      "views": 78000,
+      "postedAgo": "2 months ago",
+      "tags": [
+        "education",
+        "tutorial",
+        "chemistry",
+        "exam-prep",
+        "high-school"
+      ],
+      "description": "Complete walkthrough of equilibrium problems for AP Chemistry. Includes Le Chatelier's principle, Kc calculations, and practice questions with solutions.",
+      "category": "education"
+    },
+    {
+      "id": "education-6",
+      "title": "JavaScript Event Listeners: DOM Manipulation Made Easy",
+      "channel": {
+        "name": "Web Dev Bootcamp",
+        "avatar": "https://i.pravatar.cc/80?u=webdevbootcamp",
+        "verified": true,
+        "subscriberCount": 578000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=640&q=80",
+      "duration": "16:43",
+      "views": 312000,
+      "postedAgo": "2 weeks ago",
+      "tags": [
+        "education",
+        "tutorial",
+        "javascript",
+        "web-development",
+        "coding"
+      ],
+      "description": "Master JavaScript event listeners and DOM manipulation. Build interactive websites with click handlers, input events, and more.",
+      "category": "education"
+    },
+    {
+      "id": "education-7",
+      "title": "World War 2 Causes Explained: The Complete Historical Overview",
+      "channel": {
+        "name": "History Simplified",
+        "avatar": "https://i.pravatar.cc/80?u=historysimplified",
+        "verified": false,
+        "subscriberCount": 267000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=640&q=80",
+      "duration": "33:12",
+      "views": 567000,
+      "postedAgo": "4 months ago",
+      "tags": [
+        "education",
+        "tutorial",
+        "history",
+        "world-war-2",
+        "social-studies"
+      ],
+      "description": "Comprehensive overview of WW2 causes including Treaty of Versailles, economic depression, nationalism, and militarism. Perfect for students.",
+      "category": "education"
+    },
+    {
+      "id": "education-8",
+      "title": "Photosynthesis Process: Animations & Explanations for Students",
+      "channel": {
+        "name": "Biology Basics with Dr. Chen",
+        "avatar": "https://i.pravatar.cc/80?u=biologychendr",
+        "verified": true,
+        "subscriberCount": 334000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1530124566582-a618bc2615dc?w=640&q=80",
+      "duration": "19:28",
+      "views": 456000,
+      "postedAgo": "5 months ago",
+      "tags": [
+        "education",
+        "tutorial",
+        "biology",
+        "science",
+        "photosynthesis"
+      ],
+      "description": "Easy-to-understand explanation of photosynthesis with animated diagrams. Covers light reactions, Calvin cycle, and chloroplast structure.",
+      "category": "education"
+    },
+    {
+      "id": "education-10",
+      "title": "Machine Learning Algorithms Comparison: KNN vs Decision Trees",
+      "channel": {
+        "name": "Data Science Academy",
+        "avatar": "https://i.pravatar.cc/80?u=datascienceacad",
+        "verified": true,
+        "subscriberCount": 445000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=640&q=80",
+      "duration": "26:14",
+      "views": 145000,
+      "postedAgo": "9 days ago",
+      "tags": [
+        "education",
+        "tutorial",
+        "machine-learning",
+        "data-science",
+        "python"
+      ],
+      "description": "Detailed comparison of KNN and Decision Tree algorithms with implementation examples, pros/cons, and when to use each.",
+      "category": "education"
+    },
+    {
+      "id": "comedy-2",
+      "title": "Why I Quit My Job at the Coffee Shop (Animated Story)",
+      "channel": {
+        "name": "Storytime with Jake",
+        "avatar": "https://i.pravatar.cc/80?u=storytimejake",
+        "verified": false,
+        "subscriberCount": 287000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1495521821757-a1efb6729352?w=640&q=80",
+      "duration": "12:15",
+      "views": 1564000,
+      "postedAgo": "2 months ago",
+      "tags": [
+        "comedy",
+        "storytime",
+        "animated",
+        "job quit",
+        "workplace humor"
+      ],
+      "description": "The wildest day ever at the coffee shop. A customer ordered something that didn't exist, my manager lost it, and I realized life was too short for this. Animated story with voice acting.",
+      "category": "comedy"
+    },
+    {
+      "id": "comedy-3",
+      "title": "Texting My Mom Like I'm a Millennial (She Had No Idea)",
+      "channel": {
+        "name": "Gen Z Problems",
+        "avatar": "https://i.pravatar.cc/80?u=genzproblems",
+        "verified": true,
+        "subscriberCount": 892000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1556656793-08538906a9f8?w=640&q=80",
+      "duration": "6:28",
+      "views": 4237000,
+      "postedAgo": "1 month ago",
+      "tags": [
+        "comedy",
+        "texting",
+        "millennial humor",
+        "parents",
+        "funny texts"
+      ],
+      "description": "I texted my mom using full millennial slang for a day. The responses were gold. She thought I was having a stroke. Featuring 'no cap', 'it's giving', and 'that's bussin'.",
+      "category": "comedy"
+    },
+    {
+      "id": "comedy-4",
+      "title": "Fast Food Workers Share Their Worst Customer Encounters",
+      "channel": {
+        "name": "The Comedy Vault",
+        "avatar": "https://i.pravatar.cc/80?u=comedyvault",
+        "verified": false,
+        "subscriberCount": 456000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=640&q=80",
+      "duration": "14:33",
+      "views": 3142000,
+      "postedAgo": "6 weeks ago",
+      "tags": [
+        "comedy",
+        "fast food",
+        "customer service",
+        "interviews",
+        "relatable"
+      ],
+      "description": "We interviewed fast food workers about their worst customer encounters. The stories are absolutely unhinged. Featuring meltdowns, impossible orders, and pure chaos.",
+      "category": "comedy"
+    },
+    {
+      "id": "comedy-9",
+      "title": "Food Critic Reviews College Dorm Food (It's Worse Than You Think)",
+      "channel": {
+        "name": "Culinary Chaos",
+        "avatar": "https://i.pravatar.cc/80?u=culinarychaos",
+        "verified": false,
+        "subscriberCount": 412000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=640&q=80",
+      "duration": "10:06",
+      "views": 2654000,
+      "postedAgo": "1 week ago",
+      "tags": [
+        "comedy",
+        "food critic",
+        "college",
+        "dorm food",
+        "reviews"
+      ],
+      "description": "A trained food critic tastes college dorm food and gives brutally honest reviews. The mystery meat, the cafeteria pizza, and whatever that brown substance was. Comedy gold.",
+      "category": "comedy"
+    },
+    {
+      "id": "comedy-10",
+      "title": "Pretending to Be a Life Coach for a Day (People Trusted Me)",
+      "channel": {
+        "name": "Prank Master Pro",
+        "avatar": "https://i.pravatar.cc/80?u=prankmasterpro",
+        "verified": true,
+        "subscriberCount": 945000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=640&q=80",
+      "duration": "15:47",
+      "views": 4921000,
+      "postedAgo": "10 days ago",
+      "tags": [
+        "comedy",
+        "prank",
+        "life coach",
+        "social experiment",
+        "funny people"
+      ],
+      "description": "I set up a fake life coaching booth and gave hilariously bad advice to strangers. People actually took notes. The advice ranged from silly to completely unhinged.",
+      "category": "comedy"
+    },
+    {
+      "id": "fitness-1",
+      "title": "Complete 30-Minute Full Body Workout - No Equipment Needed",
+      "channel": {
+        "name": "FitLife Daily",
+        "avatar": "https://i.pravatar.cc/80?u=fitlifedaily",
+        "verified": true,
+        "subscriberCount": 287400
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=640&q=80",
+      "duration": "32:45",
+      "views": 1247850,
+      "postedAgo": "2 weeks ago",
+      "tags": [
+        "fitness",
+        "workout",
+        "full body",
+        "no equipment",
+        "home workout"
+      ],
+      "description": "Burn 300+ calories with this intense full-body workout. Perfect for beginners and intermediate fitness enthusiasts. No equipment required!",
+      "category": "fitness"
+    },
+    {
+      "id": "fitness-3",
+      "title": "Beginner Running Training Plan - Couch to 5K in 8 Weeks",
+      "channel": {
+        "name": "Runner's Hub",
+        "avatar": "https://i.pravatar.cc/80?u=runnershub",
+        "verified": false,
+        "subscriberCount": 156200
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=640&q=80",
+      "duration": "24:15",
+      "views": 523100,
+      "postedAgo": "1 month ago",
+      "tags": [
+        "fitness",
+        "running",
+        "cardio",
+        "beginner",
+        "training plan"
+      ],
+      "description": "Complete 8-week couch to 5K running program. Perfect for anyone starting their fitness journey. Includes warm-ups and cool-downs.",
+      "category": "fitness"
+    },
+    {
+      "id": "fitness-5",
+      "title": "Yoga for Flexibility - 45 Minute Full Body Flow",
+      "channel": {
+        "name": "Zen Fitness",
+        "avatar": "https://i.pravatar.cc/80?u=zenfitn",
+        "verified": false,
+        "subscriberCount": 201800
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=640&q=80",
+      "duration": "47:20",
+      "views": 634290,
+      "postedAgo": "10 days ago",
+      "tags": [
+        "fitness",
+        "yoga",
+        "flexibility",
+        "stretching",
+        "wellness"
+      ],
+      "description": "Improve your flexibility and mobility with this relaxing yoga flow. Suitable for all levels. Practice daily for best results.",
+      "category": "fitness"
+    },
+    {
+      "id": "fitness-6",
+      "title": "Best Chest and Triceps Workout for Beginners",
+      "channel": {
+        "name": "Pump It Up Gym",
+        "avatar": "https://i.pravatar.cc/80?u=pumpitupgym",
+        "verified": true,
+        "subscriberCount": 379500
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=640&q=80",
+      "duration": "35:18",
+      "views": 756420,
+      "postedAgo": "2 weeks ago",
+      "tags": [
+        "fitness",
+        "chest",
+        "triceps",
+        "strength training",
+        "bodybuilding"
+      ],
+      "description": "Complete chest and triceps workout routine. Includes dumbbell and barbell exercises perfect for building strength and size.",
+      "category": "fitness"
+    },
+    {
+      "id": "fitness-7",
+      "title": "Weight Loss Meal Prep - 5 Easy High-Protein Recipes",
+      "channel": {
+        "name": "Healthy Eats & Fitness",
+        "avatar": "https://i.pravatar.cc/80?u=healthyeatsfitness",
+        "verified": false,
+        "subscriberCount": 298600
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=640&q=80",
+      "duration": "29:45",
+      "views": 1087340,
+      "postedAgo": "1 week ago",
+      "tags": [
+        "fitness",
+        "meal prep",
+        "nutrition",
+        "weight loss",
+        "high protein"
+      ],
+      "description": "Simple meal prep recipes to support your fitness goals. High protein, low calorie options that taste amazing.",
+      "category": "fitness"
+    },
+    {
+      "id": "fitness-8",
+      "title": "Lower Body Strength - Legs and Glutes Workout",
+      "channel": {
+        "name": "Strong & Fierce",
+        "avatar": "https://i.pravatar.cc/80?u=strongfierce",
+        "verified": true,
+        "subscriberCount": 465200
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=640&q=80",
+      "duration": "39:50",
+      "views": 1923410,
+      "postedAgo": "4 days ago",
+      "tags": [
+        "fitness",
+        "legs",
+        "glutes",
+        "lower body",
+        "strength"
+      ],
+      "description": "Build stronger legs and glutes with this comprehensive workout. Includes squats, lunges, and deadlifts. Intermediate to advanced.",
+      "category": "fitness"
+    },
+    {
+      "id": "vlogs-1",
+      "title": "Day in My Life as a Software Engineer in San Francisco",
+      "channel": {
+        "name": "Tech Life with Alex",
+        "avatar": "https://i.pravatar.cc/80?u=techlifealex",
+        "verified": true,
+        "subscriberCount": 245000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=640&q=80",
+      "duration": "18:47",
+      "views": 156000,
+      "postedAgo": "3 days ago",
+      "tags": [
+        "vlog",
+        "day in my life",
+        "software engineer",
+        "tech",
+        "san francisco"
+      ],
+      "description": "Come hang out with me as I show you my typical day working as a senior software engineer at a big tech company. From morning routines to evening wind-downs, see what my life looks like!",
+      "category": "vlogs"
+    },
+    {
+      "id": "vlogs-4",
+      "title": "Quit My Corporate Job to Travel Full-Time | Emotional Vlog",
+      "channel": {
+        "name": "Freedom Seekers Co.",
+        "avatar": "https://i.pravatar.cc/80?u=freedomseekers",
+        "verified": false,
+        "subscriberCount": 156000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=640&q=80",
+      "duration": "26:43",
+      "views": 198000,
+      "postedAgo": "2 weeks ago",
+      "tags": [
+        "vlog",
+        "travel",
+        "quit job",
+        "life change",
+        "personal journey"
+      ],
+      "description": "After 8 years in corporate finance, I finally took the leap and quit my job to travel the world full-time. This is my emotional story and why I decided to chase my dreams.",
+      "category": "vlogs"
+    },
+    {
+      "id": "vlogs-6",
+      "title": "Cooking a 5-Course Meal for My Family | Holiday Vlog",
+      "channel": {
+        "name": "Home Chef Chronicles",
+        "avatar": "https://i.pravatar.cc/80?u=homefechchron",
+        "verified": false,
+        "subscriberCount": 67000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1495521821757-a1efb6729352?w=640&q=80",
+      "duration": "31:22",
+      "views": 89000,
+      "postedAgo": "10 days ago",
+      "tags": [
+        "vlog",
+        "cooking",
+        "holiday",
+        "family",
+        "food"
+      ],
+      "description": "I'm preparing a complete 5-course meal from scratch for my family's holiday dinner. Watch as I prep, cook, and celebrate together with my loved ones!",
+      "category": "vlogs"
+    },
+    {
+      "id": "vlogs-7",
+      "title": "My First Marathon Training: 6 Month Journey",
+      "channel": {
+        "name": "Fitness First",
+        "avatar": "https://i.pravatar.cc/80?u=fitnessfirst",
+        "verified": true,
+        "subscriberCount": 223000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=640&q=80",
+      "duration": "23:51",
+      "views": 312000,
+      "postedAgo": "6 days ago",
+      "tags": [
+        "vlog",
+        "marathon",
+        "fitness",
+        "training",
+        "running"
+      ],
+      "description": "Follow my 6-month journey as I train for my first marathon. From struggling with 5k runs to completing 26.2 miles - this is my transformation vlog!",
+      "category": "vlogs"
+    },
+    {
+      "id": "vlogs-9",
+      "title": "Living in a Tiny House for 30 Days | Minimalist Challenge",
+      "channel": {
+        "name": "Simple Living Stories",
+        "avatar": "https://i.pravatar.cc/80?u=simplelivingstories",
+        "verified": true,
+        "subscriberCount": 389000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=640&q=80",
+      "duration": "25:34",
+      "views": 451000,
+      "postedAgo": "2 days ago",
+      "tags": [
+        "vlog",
+        "tiny house",
+        "minimalism",
+        "challenge",
+        "sustainable living"
+      ],
+      "description": "I lived in a 200 sq ft tiny house for an entire month. Here's what I learned about minimalism, sustainability, and what truly matters in life.",
+      "category": "vlogs"
+    },
+    {
+      "id": "sports-1",
+      "title": "Mahomes Best Plays 2024 Season | MVP Highlights",
+      "channel": {
+        "name": "NFL Highlights Central",
+        "avatar": "https://i.pravatar.cc/80?u=nfl-highlights-central",
+        "verified": true,
+        "subscriberCount": 2840000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=640&q=80",
+      "duration": "8:47",
+      "views": 5240000,
+      "postedAgo": "3 days ago",
+      "tags": [
+        "sports",
+        "nfl",
+        "mahomes",
+        "highlights",
+        "football",
+        "kansas city chiefs"
+      ],
+      "description": "Watch Patrick Mahomes' best throws and plays from the 2024 NFL season. Subscribe for daily football highlights!",
+      "category": "sports"
+    },
+    {
+      "id": "sports-3",
+      "title": "Ronaldo vs Messi: Career Goals Comparison | GOAT Debate",
+      "channel": {
+        "name": "Soccer Stats Pro",
+        "avatar": "https://i.pravatar.cc/80?u=soccer-stats-pro",
+        "verified": false,
+        "subscriberCount": 890000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=640&q=80",
+      "duration": "15:42",
+      "views": 2150000,
+      "postedAgo": "2 weeks ago",
+      "tags": [
+        "sports",
+        "football",
+        "soccer",
+        "ronaldo",
+        "messi",
+        "comparison",
+        "highlights"
+      ],
+      "description": "Complete breakdown of Cristiano Ronaldo vs Lionel Messi career statistics and greatest goals. Who is the GOAT?",
+      "category": "sports"
+    },
+    {
+      "id": "sports-8",
+      "title": "Lionel Messi Free Kicks Compilation | Pure Magic",
+      "channel": {
+        "name": "Football Magic Moments",
+        "avatar": "https://i.pravatar.cc/80?u=football-magic-moments",
+        "verified": false,
+        "subscriberCount": 720000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=640&q=80",
+      "duration": "12:08",
+      "views": 4560000,
+      "postedAgo": "18 days ago",
+      "tags": [
+        "sports",
+        "football",
+        "soccer",
+        "messi",
+        "free kicks",
+        "highlights",
+        "compilation"
+      ],
+      "description": "The most beautiful and accurate free kicks by Lionel Messi. A masterclass in technique and precision.",
+      "category": "sports"
+    },
+    {
+      "id": "science-2",
+      "title": "Why Quantum Entanglement Breaks Our Understanding of Reality",
+      "channel": {
+        "name": "Physics Fundamentals",
+        "avatar": "https://i.pravatar.cc/80?u=physics-fund",
+        "verified": true,
+        "subscriberCount": 612000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1446776653964-20c1d3a81b06?w=640&q=80",
+      "duration": "18:47",
+      "views": 5234000,
+      "postedAgo": "2 months ago",
+      "tags": [
+        "science",
+        "education",
+        "quantum physics",
+        "entanglement",
+        "relativity"
+      ],
+      "description": "Exploring quantum entanglement and Einstein's spooky action at a distance. This video explains the EPR paradox, Bell's theorem, and what entanglement means for our universe.",
+      "category": "science"
+    },
+    {
+      "id": "science-3",
+      "title": "The Science Behind Why We Dream - Neuroscience Explained",
+      "channel": {
+        "name": "Brain Matters Podcast",
+        "avatar": "https://i.pravatar.cc/80?u=brain-matters",
+        "verified": false,
+        "subscriberCount": 289000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=640&q=80",
+      "duration": "11:23",
+      "views": 1847000,
+      "postedAgo": "5 weeks ago",
+      "tags": [
+        "science",
+        "education",
+        "neuroscience",
+        "sleep",
+        "dreams"
+      ],
+      "description": "A comprehensive look at the neuroscience of dreaming. Learn about REM sleep, the activation-synthesis hypothesis, and what your brain is actually doing while you dream.",
+      "category": "science"
+    },
+    {
+      "id": "science-6",
+      "title": "How Photosynthesis Converts Sunlight Into Chemical Energy",
+      "channel": {
+        "name": "Plant Science Daily",
+        "avatar": "https://i.pravatar.cc/80?u=plant-science",
+        "verified": false,
+        "subscriberCount": 234000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=640&q=80",
+      "duration": "13:41",
+      "views": 1623000,
+      "postedAgo": "2 months ago",
+      "tags": [
+        "science",
+        "education",
+        "biology",
+        "photosynthesis",
+        "plants"
+      ],
+      "description": "An animated explanation of the light-dependent and light-independent reactions of photosynthesis. Understand chlorophyll, thylakoids, and the Calvin cycle.",
+      "category": "science"
+    },
+    {
+      "id": "science-8",
+      "title": "Polymer Chemistry: How Plastics Are Made | Material Science",
+      "channel": {
+        "name": "Chemistry Simplified",
+        "avatar": "https://i.pravatar.cc/80?u=chem-simplified",
+        "verified": false,
+        "subscriberCount": 367000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1530124566582-a618bc2615dc?w=640&q=80",
+      "duration": "12:09",
+      "views": 756000,
+      "postedAgo": "1 month ago",
+      "tags": [
+        "science",
+        "education",
+        "chemistry",
+        "polymers",
+        "materials"
+      ],
+      "description": "Explore how synthetic polymers and plastics are manufactured through polymerization. Learn about different types of polymers and their properties.",
+      "category": "science"
+    },
+    {
+      "id": "science-10",
+      "title": "Atmospheric Pressure Explained: Why We Don't Feel It",
+      "channel": {
+        "name": "Physics Experiments Lab",
+        "avatar": "https://i.pravatar.cc/80?u=phys-exp-lab",
+        "verified": false,
+        "subscriberCount": 198000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1446776877081-d282a0f896e2?w=640&q=80",
+      "duration": "9:52",
+      "views": 634000,
+      "postedAgo": "6 weeks ago",
+      "tags": [
+        "science",
+        "education",
+        "physics",
+        "pressure",
+        "experiments"
+      ],
+      "description": "Interactive demonstrations of atmospheric pressure using water, barometers, and vacuums. Learn why 14.7 psi of pressure doesn't crush us.",
+      "category": "science"
+    },
+    {
+      "id": "history-3",
+      "title": "Women Who Changed History But Were Forgotten",
+      "channel": {
+        "name": "Women in History",
+        "avatar": "https://i.pravatar.cc/80?u=womeninhistory",
+        "verified": false,
+        "subscriberCount": 89000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=640&q=80",
+      "duration": "22:08",
+      "views": 1456000,
+      "postedAgo": "1 month ago",
+      "tags": [
+        "history",
+        "women's history",
+        "biography",
+        "forgotten figures",
+        "education"
+      ],
+      "description": "Discover the incredible stories of women who shaped world history but were written out of textbooks. From scientists to revolutionaries.",
+      "category": "history"
+    },
+    {
+      "id": "history-10",
+      "title": "Cold War Espionage: The Spies That Changed History",
+      "channel": {
+        "name": "20th Century Untold",
+        "avatar": "https://i.pravatar.cc/80?u=20thcenturyuntold",
+        "verified": true,
+        "subscriberCount": 721000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=640&q=80",
+      "duration": "33:15",
+      "views": 6789000,
+      "postedAgo": "3 weeks ago",
+      "tags": [
+        "history",
+        "cold war",
+        "espionage",
+        "spy stories",
+        "soviet union",
+        "usa"
+      ],
+      "description": "From double agents to intelligence operations, discover the secret missions that shaped geopolitics during the Cold War era.",
+      "category": "history"
+    },
+    {
+      "id": "kids-1",
+      "title": "Learn ABC Alphabet with Colorful Blocks | Kids Educational Videos",
+      "channel": {
+        "name": "Tiny Learners Academy",
+        "avatar": "https://i.pravatar.cc/80?u=tinylearners",
+        "verified": true,
+        "subscriberCount": 2850000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=640&q=80",
+      "duration": "12:34",
+      "views": 5420000,
+      "postedAgo": "2 months ago",
+      "tags": [
+        "kids",
+        "education",
+        "alphabet",
+        "learning",
+        "preschool"
+      ],
+      "description": "Join us as we learn the alphabet with colorful blocks! Perfect for toddlers and preschoolers.",
+      "category": "kids"
+    },
+    {
+      "id": "kids-5",
+      "title": "Numbers 1-10 Song | Counting Fun with Dancing Characters",
+      "channel": {
+        "name": "Happy Kids Music",
+        "avatar": "https://i.pravatar.cc/80?u=happykidsmusic",
+        "verified": true,
+        "subscriberCount": 4200000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1516975080664-ed2fc6a32937?w=640&q=80",
+      "duration": "4:23",
+      "views": 8750000,
+      "postedAgo": "6 months ago",
+      "tags": [
+        "kids",
+        "music",
+        "counting",
+        "numbers",
+        "education"
+      ],
+      "description": "A fun and catchy song to help kids learn numbers 1-10. Perfect for preschoolers!",
+      "category": "kids"
+    },
+    {
+      "id": "kids-7",
+      "title": "Animal Sounds & Names | Zoo Learning for Toddlers",
+      "channel": {
+        "name": "Zoo Baby Learning",
+        "avatar": "https://i.pravatar.cc/80?u=zoobabylearning",
+        "verified": true,
+        "subscriberCount": 1890000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1474511320723-9a56873867b5?w=640&q=80",
+      "duration": "7:18",
+      "views": 2340000,
+      "postedAgo": "3 months ago",
+      "tags": [
+        "kids",
+        "animals",
+        "learning",
+        "toddlers",
+        "education"
+      ],
+      "description": "Learn animal sounds and names from the zoo! Educational fun for toddlers and babies.",
+      "category": "kids"
+    },
+    {
+      "id": "kids-8",
+      "title": "Superhero Costumes Try-On | Kids Fashion Show",
+      "channel": {
+        "name": "Super Kids Style",
+        "avatar": "https://i.pravatar.cc/80?u=superkidsstyle",
+        "verified": false,
+        "subscriberCount": 418000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=640&q=80",
+      "duration": "13:44",
+      "views": 567000,
+      "postedAgo": "1 week ago",
+      "tags": [
+        "kids",
+        "fashion",
+        "costumes",
+        "superhero",
+        "dress-up"
+      ],
+      "description": "Watch as our kids try on amazing superhero costumes in this fun fashion show!",
+      "category": "kids"
+    },
+    {
+      "id": "kids-9",
+      "title": "Colors Learning Video | Rainbow Recognition for Babies",
+      "channel": {
+        "name": "Baby Bright Learning",
+        "avatar": "https://i.pravatar.cc/80?u=babybrightlearning",
+        "verified": true,
+        "subscriberCount": 2100000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=640&q=80",
+      "duration": "6:45",
+      "views": 4820000,
+      "postedAgo": "4 months ago",
+      "tags": [
+        "kids",
+        "colors",
+        "learning",
+        "babies",
+        "development"
+      ],
+      "description": "Help your baby learn colors with our bright and engaging rainbow recognition video!",
+      "category": "kids"
+    },
+    {
+      "id": "kids-10",
+      "title": "Cooking Simple Recipes with Kids | Making Pizza Faces",
+      "channel": {
+        "name": "Family Kitchen Fun",
+        "avatar": "https://i.pravatar.cc/80?u=familykitchenfun",
+        "verified": false,
+        "subscriberCount": 195000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=640&q=80",
+      "duration": "19:26",
+      "views": 89000,
+      "postedAgo": "10 days ago",
+      "tags": [
+        "kids",
+        "cooking",
+        "recipe",
+        "family",
+        "food"
+      ],
+      "description": "A fun and easy pizza face recipe that kids can help make! Perfect family activity.",
+      "category": "kids"
+    },
+    {
+      "id": "beauty-1",
+      "title": "Natural Glowing Skin Routine for Beginners - Budget Friendly Products",
+      "channel": {
+        "name": "Glow With Me",
+        "avatar": "https://i.pravatar.cc/80?u=glowwithme",
+        "verified": false,
+        "subscriberCount": 245000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1556228578-8c89e6adf883?w=640&q=80",
+      "duration": "12:34",
+      "views": 547000,
+      "postedAgo": "2 weeks ago",
+      "tags": [
+        "beauty",
+        "skincare routine",
+        "glowing skin",
+        "budget friendly",
+        "natural skincare"
+      ],
+      "description": "Learn how to achieve naturally glowing skin with affordable products you can find at any drugstore. Perfect for beginners!",
+      "category": "beauty"
+    },
+    {
+      "id": "beauty-4",
+      "title": "Acne Prone Skin: Complete Routine That Actually Works",
+      "channel": {
+        "name": "Clear Skin Chronicles",
+        "avatar": "https://i.pravatar.cc/80?u=clearskinchron",
+        "verified": true,
+        "subscriberCount": 567000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1556228578-8c89e6adf883?w=640&q=80",
+      "duration": "16:22",
+      "views": 1890000,
+      "postedAgo": "5 days ago",
+      "tags": [
+        "beauty",
+        "skincare",
+        "acne routine",
+        "acne-prone skin",
+        "dermatologist approved"
+      ],
+      "description": "A complete morning and night skincare routine specifically designed for acne-prone skin with dermatologist-recommended products.",
+      "category": "beauty"
+    },
+    {
+      "id": "beauty-6",
+      "title": "Anti-Aging Skincare: What Actually Works vs Marketing Hype",
+      "channel": {
+        "name": "Skincare Science with Dr. Emma",
+        "avatar": "https://i.pravatar.cc/80?u=skincareemma",
+        "verified": true,
+        "subscriberCount": 743000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1556228578-8c89e6adf883?w=640&q=80",
+      "duration": "22:11",
+      "views": 3120000,
+      "postedAgo": "1 week ago",
+      "tags": [
+        "beauty",
+        "anti-aging",
+        "skincare science",
+        "ingredients",
+        "dermatology"
+      ],
+      "description": "Breaking down anti-aging ingredients and products - what's actually backed by science and what's just expensive marketing.",
+      "category": "beauty"
+    },
+    {
+      "id": "beauty-8",
+      "title": "Nail Care & Strengthening: Grow Long Healthy Nails Fast",
+      "channel": {
+        "name": "Nail Sanctuary",
+        "avatar": "https://i.pravatar.cc/80?u=nailsanctuary",
+        "verified": false,
+        "subscriberCount": 205000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1604654894610-df63bc536371?w=640&q=80",
+      "duration": "13:56",
+      "views": 721000,
+      "postedAgo": "10 days ago",
+      "tags": [
+        "beauty",
+        "nail care",
+        "nail health",
+        "nail growth",
+        "nails"
+      ],
+      "description": "Complete guide to growing strong, healthy nails including supplements, products, and daily habits that actually work.",
+      "category": "beauty"
+    },
+    {
+      "id": "travel-2",
+      "title": "Backpacking Southeast Asia on $25/Day - Complete Guide",
+      "channel": {
+        "name": "Budget Backpacker Mike",
+        "avatar": "https://i.pravatar.cc/80?u=budgetbackpacker",
+        "verified": false,
+        "subscriberCount": 145000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=640&q=80",
+      "duration": "34:17",
+      "views": 1240000,
+      "postedAgo": "1 month ago",
+      "tags": [
+        "travel",
+        "backpacking",
+        "southeast asia",
+        "budget travel",
+        "tips"
+      ],
+      "description": "A detailed breakdown of how to travel through Thailand, Vietnam, and Cambodia on a shoestring budget. Includes accommodation hacks, transportation tips, and street food recommendations.",
+      "category": "travel"
+    },
+    {
+      "id": "travel-3",
+      "title": "Hiking the Inca Trail: What They Don't Tell You",
+      "channel": {
+        "name": "Adventure with Alex",
+        "avatar": "https://i.pravatar.cc/80?u=adventurealex",
+        "verified": true,
+        "subscriberCount": 512000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=640&q=80",
+      "duration": "22:54",
+      "views": 892000,
+      "postedAgo": "3 weeks ago",
+      "tags": [
+        "travel",
+        "hiking",
+        "peru",
+        "adventure",
+        "machu picchu"
+      ],
+      "description": "My honest experience hiking to Machu Picchu. Altitude sickness, porter stories, and the most beautiful sunrise I've ever seen. Plus what to pack and realistic costs.",
+      "category": "travel"
+    },
+    {
+      "id": "travel-5",
+      "title": "Living in Bali for 3 Months: The Real Cost & Culture",
+      "channel": {
+        "name": "Passport Diaries",
+        "avatar": "https://i.pravatar.cc/80?u=passportdiaries",
+        "verified": true,
+        "subscriberCount": 423000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1537225228614-56cc3556d7ed?w=640&q=80",
+      "duration": "31:05",
+      "views": 756000,
+      "postedAgo": "2 weeks ago",
+      "tags": [
+        "travel",
+        "bali",
+        "indonesia",
+        "expat life",
+        "culture"
+      ],
+      "description": "What it's really like to stay long-term in Bali. Monthly expenses, visa requirements, cultural etiquette, best neighborhoods, and honest thoughts on digital nomad life.",
+      "category": "travel"
+    },
+    {
+      "id": "travel-7",
+      "title": "New Zealand: Self-Drive Adventure & Scenic Stops",
+      "channel": {
+        "name": "Kiwi Adventures",
+        "avatar": "https://i.pravatar.cc/80?u=kiwiadventures",
+        "verified": true,
+        "subscriberCount": 334000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=640&q=80",
+      "duration": "35:42",
+      "views": 628000,
+      "postedAgo": "1 month ago",
+      "tags": [
+        "travel",
+        "new zealand",
+        "road trip",
+        "scenery",
+        "adventure"
+      ],
+      "description": "Complete self-drive guide through New Zealand's North and South Islands. Hobbiton, Milford Sound, adventure sports, and camping in middle-earth.",
+      "category": "travel"
+    },
+    {
+      "id": "travel-9",
+      "title": "Colombia Travel Guide: Cartagena, Bogotá & Coffee Region",
+      "channel": {
+        "name": "Latin Roots Travel",
+        "avatar": "https://i.pravatar.cc/80?u=latinrootstravel",
+        "verified": true,
+        "subscriberCount": 198000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=640&q=80",
+      "duration": "32:07",
+      "views": 445000,
+      "postedAgo": "3 weeks ago",
+      "tags": [
+        "travel",
+        "colombia",
+        "south america",
+        "safety",
+        "culture"
+      ],
+      "description": "Comprehensive Colombia guide addressing safety concerns and showcasing vibrant cities, colonial architecture, coffee plantations, and warm people.",
+      "category": "travel"
+    },
+    {
+      "id": "travel-10",
+      "title": "Swiss Alps Train Journey: The Most Scenic Route",
+      "channel": {
+        "name": "Rails & Trails",
+        "avatar": "https://i.pravatar.cc/80?u=railstrails",
+        "verified": false,
+        "subscriberCount": 156000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=640&q=80",
+      "duration": "24:51",
+      "views": 389000,
+      "postedAgo": "1 month ago",
+      "tags": [
+        "travel",
+        "switzerland",
+        "trains",
+        "mountains",
+        "scenic"
+      ],
+      "description": "Riding the Bernina Express and Glacier Express through the Swiss Alps. Stunning alpine views, hidden villages, and travel tips for one of Europe's most picturesque regions.",
+      "category": "travel"
+    },
+    {
+      "id": "diy-2",
+      "title": "DIY Concrete Planters | Affordable Garden Decoration",
+      "channel": {
+        "name": "Creative Home Studio",
+        "avatar": "https://i.pravatar.cc/80?u=creative-home-studio",
+        "verified": true,
+        "subscriberCount": 523900
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=640&q=80",
+      "duration": "11:45",
+      "views": 1203450,
+      "postedAgo": "3 weeks ago",
+      "tags": [
+        "diy",
+        "concrete",
+        "planters",
+        "garden",
+        "home decor"
+      ],
+      "description": "Learn how to make beautiful concrete planters for under $10 each. Great for indoor and outdoor plants.",
+      "category": "diy"
+    },
+    {
+      "id": "diy-3",
+      "title": "How to Install Shiplap Walls - Complete Step-by-Step Guide",
+      "channel": {
+        "name": "BuildRight Workshop",
+        "avatar": "https://i.pravatar.cc/80?u=buildright-workshop",
+        "verified": true,
+        "subscriberCount": 892340
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1552321554-5fefe8c9ef14?w=640&q=80",
+      "duration": "22:18",
+      "views": 567890,
+      "postedAgo": "1 month ago",
+      "tags": [
+        "diy",
+        "shiplap",
+        "wall installation",
+        "home renovation",
+        "woodworking"
+      ],
+      "description": "Complete tutorial on installing shiplap walls in your home. Includes tips for avoiding common mistakes.",
+      "category": "diy"
+    },
+    {
+      "id": "diy-5",
+      "title": "DIY Raised Garden Bed - Grow Vegetables in Your Backyard",
+      "channel": {
+        "name": "Urban Gardening Tips",
+        "avatar": "https://i.pravatar.cc/80?u=urban-gardening-tips",
+        "verified": false,
+        "subscriberCount": 342100
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1464207687429-7505649dae38?w=640&q=80",
+      "duration": "16:54",
+      "views": 892340,
+      "postedAgo": "5 days ago",
+      "tags": [
+        "diy",
+        "gardening",
+        "raised bed",
+        "vegetables",
+        "backyard"
+      ],
+      "description": "Build a raised garden bed from scratch with materials from your local hardware store. Perfect for growing vegetables!",
+      "category": "diy"
+    },
+    {
+      "id": "diy-6",
+      "title": "Bathroom Mirror Cabinet DIY - Storage and Style",
+      "channel": {
+        "name": "Fix It Yourself Channel",
+        "avatar": "https://i.pravatar.cc/80?u=fix-it-yourself",
+        "verified": true,
+        "subscriberCount": 478200
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1552321554-5fefe8c9ef14?w=640&q=80",
+      "duration": "19:07",
+      "views": 634210,
+      "postedAgo": "2 weeks ago",
+      "tags": [
+        "diy",
+        "bathroom",
+        "mirror cabinet",
+        "home improvement",
+        "storage"
+      ],
+      "description": "Transform your bathroom with this easy DIY mirror cabinet project. Adds both style and storage to your space.",
+      "category": "diy"
+    },
+    {
+      "id": "diy-7",
+      "title": "Build a Rustic Pallet Coffee Table in 1 Hour",
+      "channel": {
+        "name": "Rustic Designs Co",
+        "avatar": "https://i.pravatar.cc/80?u=rustic-designs-co",
+        "verified": false,
+        "subscriberCount": 156800
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=640&q=80",
+      "duration": "13:21",
+      "views": 1456780,
+      "postedAgo": "6 days ago",
+      "tags": [
+        "diy",
+        "pallet",
+        "furniture",
+        "coffee table",
+        "quick projects"
+      ],
+      "description": "Quick and easy pallet coffee table project. Uses minimal tools and materials. Perfect beginner woodworking project!",
+      "category": "diy"
+    },
+    {
+      "id": "diy-9",
+      "title": "Repair Leaky Faucet - Save Money on Plumbing Costs",
+      "channel": {
+        "name": "Home Maintenance Mastery",
+        "avatar": "https://i.pravatar.cc/80?u=home-maint-mastery",
+        "verified": false,
+        "subscriberCount": 287600
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1552321554-5fefe8c9ef14?w=640&q=80",
+      "duration": "9:12",
+      "views": 967340,
+      "postedAgo": "1 week ago",
+      "tags": [
+        "diy",
+        "plumbing",
+        "faucet repair",
+        "home repair",
+        "budget"
+      ],
+      "description": "Simple steps to repair that annoying leaky faucet. Save hundreds of dollars by doing it yourself!",
+      "category": "diy"
+    },
+    {
+      "id": "business-1",
+      "title": "How I Built a $2M Business in 18 Months - Complete Breakdown",
+      "channel": {
+        "name": "Entrepreneurial Growth",
+        "avatar": "https://i.pravatar.cc/80?u=entrepreneurial-growth-1",
+        "verified": true,
+        "subscriberCount": 287400
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=640&q=80",
+      "duration": "23:47",
+      "views": 1245600,
+      "postedAgo": "2 weeks ago",
+      "tags": [
+        "business",
+        "finance",
+        "entrepreneurship",
+        "startup",
+        "business strategy"
+      ],
+      "description": "In this video, I walk you through every step of building my business from zero. Learn about the mistakes I made, the strategies that worked, and how to scale efficiently.",
+      "category": "business"
+    },
+    {
+      "id": "business-2",
+      "title": "Cash Flow vs Profit - Why Most Businesses Fail (Explained Simply)",
+      "channel": {
+        "name": "Finance Fundamentals",
+        "avatar": "https://i.pravatar.cc/80?u=finance-fundamentals-2",
+        "verified": true,
+        "subscriberCount": 512300
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=640&q=80",
+      "duration": "12:34",
+      "views": 856400,
+      "postedAgo": "3 days ago",
+      "tags": [
+        "business",
+        "finance",
+        "accounting",
+        "small business",
+        "cash flow"
+      ],
+      "description": "Understanding the difference between cash flow and profit is critical for business survival. In this video, I explain why this is the #1 reason businesses fail and how to manage it.",
+      "category": "business"
+    },
+    {
+      "id": "business-6",
+      "title": "Networking Secrets: How I Got 100+ Clients From Relationships",
+      "channel": {
+        "name": "Professional Network Hub",
+        "avatar": "https://i.pravatar.cc/80?u=professional-network-hub-6",
+        "verified": false,
+        "subscriberCount": 89400
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=640&q=80",
+      "duration": "21:43",
+      "views": 412600,
+      "postedAgo": "2 weeks ago",
+      "tags": [
+        "business",
+        "finance",
+        "networking",
+        "sales",
+        "relationships"
+      ],
+      "description": "The power of networking is underrated. I share the exact strategies and habits that helped me build meaningful professional relationships that turned into business.",
+      "category": "business"
+    },
+    {
+      "id": "business-8",
+      "title": "Tax Strategies for High-Income Earners (Legal Tax Reduction)",
+      "channel": {
+        "name": "Smart Finance Academy",
+        "avatar": "https://i.pravatar.cc/80?u=smart-finance-academy-8",
+        "verified": true,
+        "subscriberCount": 478900
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=640&q=80",
+      "duration": "24:15",
+      "views": 923400,
+      "postedAgo": "10 days ago",
+      "tags": [
+        "business",
+        "finance",
+        "taxes",
+        "tax strategy",
+        "income"
+      ],
+      "description": "Understand legal tax strategies that high earners use to reduce their tax burden. Includes LLC structures, deductions, and retirement account optimization.",
+      "category": "business"
+    },
+    {
+      "id": "business-9",
+      "title": "How to Delegate Without Losing Control - Management Framework",
+      "channel": {
+        "name": "Leadership Mastery",
+        "avatar": "https://i.pravatar.cc/80?u=leadership-mastery-9",
+        "verified": false,
+        "subscriberCount": 156800
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=640&q=80",
+      "duration": "13:52",
+      "views": 689200,
+      "postedAgo": "3 days ago",
+      "tags": [
+        "business",
+        "finance",
+        "leadership",
+        "management",
+        "delegation"
+      ],
+      "description": "Delegation is the key to scaling. I share the exact framework I use to delegate tasks effectively while maintaining quality and accountability.",
+      "category": "business"
+    },
+    {
+      "id": "true-crime-4",
+      "title": "She Was Found in a Suitcase: The Ashley Ellerin Murder Investigation",
+      "channel": {
+        "name": "Cold Case Chronicles",
+        "avatar": "https://i.pravatar.cc/80?u=coldcasechronicles",
+        "verified": false,
+        "subscriberCount": 98000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=640&q=80",
+      "duration": "38:45",
+      "views": 1240000,
+      "postedAgo": "1 month ago",
+      "tags": [
+        "true-crime",
+        "unsolved-murder",
+        "cold-case",
+        "investigation"
+      ],
+      "description": "Examining the tragic case of Ashley Ellerin and the investigation into her death in 2001. We interview detectives involved in the case.",
+      "category": "true-crime"
+    },
+    {
+      "id": "true-crime-5",
+      "title": "The Worst Serial Killer in US History: Luis Garavito's Confession",
+      "channel": {
+        "name": "Murder Mysteries Daily",
+        "avatar": "https://i.pravatar.cc/80?u=murdermysteries",
+        "verified": true,
+        "subscriberCount": 421000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=640&q=80",
+      "duration": "52:18",
+      "views": 3670000,
+      "postedAgo": "6 weeks ago",
+      "tags": [
+        "true-crime",
+        "serial-killer",
+        "documentary",
+        "criminal-psychology"
+      ],
+      "description": "The disturbing case of Luis Garavito, who confessed to murdering over 300 children in Colombia. We examine the investigation and psychology.",
+      "category": "true-crime"
+    },
+    {
+      "id": "true-crime-6",
+      "title": "Why Was He Released? The Robert Durst Documentary Breakdown",
+      "channel": {
+        "name": "True Crime Analysis",
+        "avatar": "https://i.pravatar.cc/80?u=crimanalysis",
+        "verified": false,
+        "subscriberCount": 213000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1550355291-bbee04a92027?w=640&q=80",
+      "duration": "1:03:55",
+      "views": 2150000,
+      "postedAgo": "3 months ago",
+      "tags": [
+        "true-crime",
+        "documentary-breakdown",
+        "murder",
+        "investigation"
+      ],
+      "description": "Analyzing the HBO documentary 'The Jinx' and Robert Durst's shocking confession. How did he evade justice for so long?",
+      "category": "true-crime"
+    },
+    {
+      "id": "true-crime-9",
+      "title": "The Hinterkaifeck Murders: One of History's Strangest Cases",
+      "channel": {
+        "name": "Unexplained Crimes",
+        "avatar": "https://i.pravatar.cc/80?u=unexplainedcrimes",
+        "verified": true,
+        "subscriberCount": 298000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1518156677180-95a2893f3e9f?w=640&q=80",
+      "duration": "49:07",
+      "views": 4450000,
+      "postedAgo": "2 months ago",
+      "tags": [
+        "true-crime",
+        "unsolved-murder",
+        "history",
+        "mystery"
+      ],
+      "description": "The bizarre 1922 murders in rural Bavaria that have never been solved. Strange details, suspicious neighbors, and more questions than answers.",
+      "category": "true-crime"
+    },
+    {
+      "id": "climbing-2",
+      "title": "Outdoor Bouldering at Red Rock Canyon | Sunset Sessions",
+      "channel": {
+        "name": "Peak Adventures",
+        "avatar": "https://i.pravatar.cc/80?u=peakadventures",
+        "verified": false,
+        "subscriberCount": 84000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=640&q=80",
+      "duration": "23:18",
+      "views": 56789,
+      "postedAgo": "5 days ago",
+      "tags": [
+        "climbing",
+        "sports",
+        "bouldering",
+        "outdoor",
+        "adventure"
+      ],
+      "description": "Amazing sunset bouldering session at Red Rock Canyon with friends. Check out these stunning routes and the views!",
+      "category": "climbing"
+    },
+    {
+      "id": "climbing-3",
+      "title": "Common Climbing Injuries: Prevention & Recovery Tips",
+      "channel": {
+        "name": "Climbing Science",
+        "avatar": "https://i.pravatar.cc/80?u=climbingscience",
+        "verified": true,
+        "subscriberCount": 156000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1571902943202-507ec2618e8f?w=640&q=80",
+      "duration": "18:45",
+      "views": 412000,
+      "postedAgo": "3 weeks ago",
+      "tags": [
+        "climbing",
+        "sports",
+        "injury prevention",
+        "health",
+        "training"
+      ],
+      "description": "Learn about the most common climbing injuries and what you can do to prevent them. Expert tips from a sports physical therapist.",
+      "category": "climbing"
+    },
+    {
+      "id": "climbing-6",
+      "title": "El Capitan 3-Day Speed Record Attempt | Full Documentary",
+      "channel": {
+        "name": "Mountain Quest",
+        "avatar": "https://i.pravatar.cc/80?u=mountainquest",
+        "verified": true,
+        "subscriberCount": 521000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1487730116645-74489c95b41b?w=640&q=80",
+      "duration": "58:33",
+      "views": 2134000,
+      "postedAgo": "2 months ago",
+      "tags": [
+        "climbing",
+        "sports",
+        "big wall",
+        "el capitan",
+        "documentary"
+      ],
+      "description": "Follow our team as we attempt to break the El Capitan 3-day speed climbing record. An incredible journey of preparation and perseverance.",
+      "category": "climbing"
+    },
+    {
+      "id": "climbing-7",
+      "title": "Rope Care 101: Maintaining Your Climbing Equipment",
+      "channel": {
+        "name": "Safety First Climbing",
+        "avatar": "https://i.pravatar.cc/80?u=safefirstclimbing",
+        "verified": false,
+        "subscriberCount": 67000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1526336024174-e58f5cdd8e13?w=640&q=80",
+      "duration": "16:47",
+      "views": 94321,
+      "postedAgo": "3 weeks ago",
+      "tags": [
+        "climbing",
+        "sports",
+        "safety",
+        "equipment",
+        "gear"
+      ],
+      "description": "Everything you need to know about caring for your ropes, harnesses, and climbing gear to ensure they last years.",
+      "category": "climbing"
+    },
+    {
+      "id": "woodworking-2",
+      "title": "Hand Tool Only: Building a Dovetail Jewelry Box",
+      "channel": {
+        "name": "Hand Craft Woodworking",
+        "avatar": "https://i.pravatar.cc/80?u=handcraftwood",
+        "verified": false,
+        "subscriberCount": 94000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1530124566582-a618bc2615dc?w=640&q=80",
+      "duration": "42:15",
+      "views": 456000,
+      "postedAgo": "2 months ago",
+      "tags": [
+        "woodworking",
+        "diy",
+        "hand tools",
+        "dovetail joints",
+        "jewelry box",
+        "traditional woodworking"
+      ],
+      "description": "Using only traditional hand tools, I craft a beautiful dovetail jewelry box from walnut and cherry wood. This video demonstrates proper dovetail technique, chiseling, and fine finishing methods.",
+      "category": "woodworking"
+    },
+    {
+      "id": "woodworking-4",
+      "title": "Restoring an Antique Oak Dresser - Full Refinishing Process",
+      "channel": {
+        "name": "Rustic Restoration Works",
+        "avatar": "https://i.pravatar.cc/80?u=rusticrestoration",
+        "verified": false,
+        "subscriberCount": 156000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=640&q=80",
+      "duration": "55:20",
+      "views": 673000,
+      "postedAgo": "1 month ago",
+      "tags": [
+        "woodworking",
+        "diy",
+        "furniture restoration",
+        "refinishing",
+        "antique restoration",
+        "wood staining"
+      ],
+      "description": "Complete walkthrough of restoring a beautiful antique oak dresser. We'll strip the old finish, repair damaged areas, sand, stain, and apply polyurethane. Techniques applicable to any wood furniture piece.",
+      "category": "woodworking"
+    },
+    {
+      "id": "woodworking-6",
+      "title": "DIY Garden Raised Bed Planters - Beginner Friendly",
+      "channel": {
+        "name": "Weekend Builder",
+        "avatar": "https://i.pravatar.cc/80?u=weekendbuilder",
+        "verified": false,
+        "subscriberCount": 203000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=640&q=80",
+      "duration": "22:47",
+      "views": 1890000,
+      "postedAgo": "2 weeks ago",
+      "tags": [
+        "woodworking",
+        "diy",
+        "garden beds",
+        "raised beds",
+        "outdoor projects",
+        "beginner woodworking"
+      ],
+      "description": "Build custom raised garden beds from cedar wood. This beginner-friendly project requires minimal tools and skills. We'll cover cutting, assembly, finishing, and tips for making them last longer.",
+      "category": "woodworking"
+    },
+    {
+      "id": "woodworking-9",
+      "title": "Building Custom Kitchen Cabinets - Part 1 of 3",
+      "channel": {
+        "name": "Pro Woodworking Co.",
+        "avatar": "https://i.pravatar.cc/80?u=prowoodco",
+        "verified": true,
+        "subscriberCount": 891000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=640&q=80",
+      "duration": "51:12",
+      "views": 1670000,
+      "postedAgo": "4 weeks ago",
+      "tags": [
+        "woodworking",
+        "diy",
+        "cabinet making",
+        "kitchen renovation",
+        "custom cabinets",
+        "advanced woodworking"
+      ],
+      "description": "Part 1: Design, planning, and material selection for custom kitchen cabinets. We'll cover measurements, wood selection, and creating detailed construction plans before we start building.",
+      "category": "woodworking"
+    },
+    {
+      "id": "woodworking-10",
+      "title": "Live Edge Resin Dining Table - Woodworking Showpiece",
+      "channel": {
+        "name": "Artisan Wood Studio",
+        "avatar": "https://i.pravatar.cc/80?u=artisanwood",
+        "verified": false,
+        "subscriberCount": 267000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=640&q=80",
+      "duration": "68:45",
+      "views": 1120000,
+      "postedAgo": "5 weeks ago",
+      "tags": [
+        "woodworking",
+        "diy",
+        "live edge",
+        "resin table",
+        "furniture design",
+        "advanced techniques"
+      ],
+      "description": "Create a stunning live edge dining table with transparent resin inlays. This advanced project showcases wood selection, flattening, epoxy preparation, pouring techniques, and professional finishing methods.",
+      "category": "woodworking"
+    },
+    {
+      "id": "fashion-1",
+      "title": "How to Style Oversized Blazers for 2024 | 5 Easy Outfit Ideas",
+      "channel": {
+        "name": "Style With Sarah",
+        "avatar": "https://i.pravatar.cc/80?u=stylewithsarah",
+        "verified": true,
+        "subscriberCount": 287000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1591195853828-11db59a44f6b?w=640&q=80",
+      "duration": "12:34",
+      "views": 156000,
+      "postedAgo": "2 weeks ago",
+      "tags": [
+        "fashion",
+        "outfit ideas",
+        "styling tips",
+        "blazer styling",
+        "2024 fashion"
+      ],
+      "description": "In this video, I'm showing you 5 different ways to style an oversized blazer for any occasion. From casual to professional, these outfits are perfect for your wardrobe!",
+      "category": "fashion"
+    },
+    {
+      "id": "fashion-3",
+      "title": "Minimalist Capsule Wardrobe: 30 Days, 20 Pieces",
+      "channel": {
+        "name": "Capsule Living",
+        "avatar": "https://i.pravatar.cc/80?u=capsuleliving",
+        "verified": true,
+        "subscriberCount": 542000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=640&q=80",
+      "duration": "21:15",
+      "views": 412000,
+      "postedAgo": "3 weeks ago",
+      "tags": [
+        "fashion",
+        "capsule wardrobe",
+        "minimalist fashion",
+        "wardrobe essentials",
+        "sustainable style"
+      ],
+      "description": "Let me show you how to create a minimalist capsule wardrobe with just 20 pieces that can create 30+ outfits. Perfect for travel and simplifying your life!",
+      "category": "fashion"
+    },
+    {
+      "id": "fashion-5",
+      "title": "Get Ready With Me | Date Night Makeup + Outfit",
+      "channel": {
+        "name": "Emma's Beauty & Style",
+        "avatar": "https://i.pravatar.cc/80?u=emmasbeautystyle",
+        "verified": true,
+        "subscriberCount": 673000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=640&q=80",
+      "duration": "14:09",
+      "views": 567000,
+      "postedAgo": "6 days ago",
+      "tags": [
+        "fashion",
+        "get ready with me",
+        "outfit ideas",
+        "makeup tutorial",
+        "date night look"
+      ],
+      "description": "Getting ready for a fancy dinner date! Watch my full makeup routine and see the outfit I chose. I'll also share some styling tips for special occasions.",
+      "category": "fashion"
+    },
+    {
+      "id": "fashion-8",
+      "title": "Trend Forecast: What's Hot in Fashion This Fall 2024",
+      "channel": {
+        "name": "Trend Setter Studios",
+        "avatar": "https://i.pravatar.cc/80?u=trendsetters",
+        "verified": true,
+        "subscriberCount": 518000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1509631179647-0177331693ae?w=640&q=80",
+      "duration": "13:44",
+      "views": 432000,
+      "postedAgo": "4 days ago",
+      "tags": [
+        "fashion",
+        "fashion trends",
+        "fall fashion",
+        "2024 trends",
+        "trend forecast"
+      ],
+      "description": "The biggest fashion trends for fall 2024! From color palettes to silhouettes, I'm breaking down what's trending and how to incorporate these looks into your wardrobe.",
+      "category": "fashion"
+    },
+    {
+      "id": "fashion-10",
+      "title": "Accessory Styling Secrets | Transform Basic Outfits",
+      "channel": {
+        "name": "The Style Detective",
+        "avatar": "https://i.pravatar.cc/80?u=thestyledetective",
+        "verified": true,
+        "subscriberCount": 356000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=640&q=80",
+      "duration": "11:52",
+      "views": 201000,
+      "postedAgo": "9 days ago",
+      "tags": [
+        "fashion",
+        "accessories",
+        "styling tips",
+        "outfit ideas",
+        "fashion hacks"
+      ],
+      "description": "The power of accessories! Watch how the right accessories can completely transform a basic outfit. I share my favorite tips for accessorizing like a pro.",
+      "category": "fashion"
+    },
+    {
+      "id": "photography-1",
+      "title": "Golden Hour Photography: Complete Beginner's Guide to Lighting",
+      "channel": {
+        "name": "Creative Light Studios",
+        "avatar": "https://i.pravatar.cc/80?u=creativelightstudios",
+        "verified": true,
+        "subscriberCount": 247000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=640&q=80",
+      "duration": "18:42",
+      "views": 156000,
+      "postedAgo": "2 weeks ago",
+      "tags": [
+        "photography",
+        "golden hour",
+        "lighting",
+        "beginners",
+        "tutorial"
+      ],
+      "description": "Learn how to master golden hour photography with professional techniques. We cover positioning, exposure settings, and composition tips for stunning outdoor portraits.",
+      "category": "photography"
+    },
+    {
+      "id": "photography-3",
+      "title": "Street Photography in Tokyo - Documentary Style Guide",
+      "channel": {
+        "name": "Urban Frame Collective",
+        "avatar": "https://i.pravatar.cc/80?u=urbanframecollective",
+        "verified": true,
+        "subscriberCount": 412000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1516339901601-2e1b62dc0c45?w=640&q=80",
+      "duration": "31:04",
+      "views": 521000,
+      "postedAgo": "1 month ago",
+      "tags": [
+        "photography",
+        "street photography",
+        "travel",
+        "documentary",
+        "japan"
+      ],
+      "description": "Exploring Tokyo through street photography. Watch as I capture candid moments, navigate cultural sensitivities, and share composition techniques for documentary-style urban photography.",
+      "category": "photography"
+    },
+    {
+      "id": "photography-4",
+      "title": "Product Photography Lighting Setup for E-commerce (Budget Friendly)",
+      "channel": {
+        "name": "DIY Photography Pro",
+        "avatar": "https://i.pravatar.cc/80?u=diyphotopro",
+        "verified": false,
+        "subscriberCount": 124000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=640&q=80",
+      "duration": "14:28",
+      "views": 87000,
+      "postedAgo": "5 days ago",
+      "tags": [
+        "photography",
+        "product photography",
+        "lighting",
+        "ecommerce",
+        "budget"
+      ],
+      "description": "Create professional product photos without breaking the bank. I show you how to build a complete lighting setup using affordable materials and household items.",
+      "category": "photography"
+    },
+    {
+      "id": "photography-5",
+      "title": "Portrait Photography Posing Guide - 50 Natural Poses Explained",
+      "channel": {
+        "name": "Sarah's Photography Academy",
+        "avatar": "https://i.pravatar.cc/80?u=sarahsphototutor",
+        "verified": true,
+        "subscriberCount": 567000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=640&q=80",
+      "duration": "43:22",
+      "views": 892000,
+      "postedAgo": "2 months ago",
+      "tags": [
+        "photography",
+        "portrait",
+        "posing",
+        "tutorial",
+        "fashion"
+      ],
+      "description": "Master 50 flattering portrait poses for any occasion. Learn body language, angles, and positioning that works for different face shapes and occasions.",
+      "category": "photography"
+    },
+    {
+      "id": "photography-6",
+      "title": "Landscape Photography: RAW vs JPEG Processing Comparison",
+      "channel": {
+        "name": "Pixel Masters",
+        "avatar": "https://i.pravatar.cc/80?u=pixelmasters",
+        "verified": false,
+        "subscriberCount": 198000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=640&q=80",
+      "duration": "19:56",
+      "views": 134000,
+      "postedAgo": "1 week ago",
+      "tags": [
+        "photography",
+        "landscape",
+        "post-processing",
+        "raw",
+        "editing"
+      ],
+      "description": "I process the same landscape images in RAW and JPEG formats side by side. See the differences in dynamic range, color grading flexibility, and final output quality.",
+      "category": "photography"
+    },
+    {
+      "id": "photography-9",
+      "title": "Night Photography Techniques - Stars, Long Exposure & Light Painting",
+      "channel": {
+        "name": "Astrophoto Mastery",
+        "avatar": "https://i.pravatar.cc/80?u=astrophotomastery",
+        "verified": true,
+        "subscriberCount": 189000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?w=640&q=80",
+      "duration": "28:47",
+      "views": 312000,
+      "postedAgo": "4 weeks ago",
+      "tags": [
+        "photography",
+        "night photography",
+        "astrophotography",
+        "long exposure"
+      ],
+      "description": "Complete guide to night photography including starscapes, city lights, and light painting. I cover camera settings, composition, and post-processing for night shots.",
+      "category": "photography"
+    },
+    {
+      "id": "cars-2",
+      "title": "Cheapest Cars to Maintain - Owner Perspective After 5 Years",
+      "channel": {
+        "name": "Budget Car Life",
+        "avatar": "https://i.pravatar.cc/80?u=budget-car-life",
+        "verified": false,
+        "subscriberCount": 127000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1489824904134-891ab64532f1?w=640&q=80",
+      "duration": "24:12",
+      "views": 178500,
+      "postedAgo": "3 weeks ago",
+      "tags": [
+        "cars",
+        "maintenance",
+        "used cars",
+        "affordable cars",
+        "car ownership"
+      ],
+      "description": "Based on 5 years of ownership data, here are the cheapest cars to maintain. Toyota Corolla, Honda Civic, and more breakdown included.",
+      "category": "cars"
+    },
+    {
+      "id": "cars-5",
+      "title": "Porsche 911 Turbo S - $200K Supercar Track Day Test",
+      "channel": {
+        "name": "Speed Demons TV",
+        "avatar": "https://i.pravatar.cc/80?u=speed-demons",
+        "verified": true,
+        "subscriberCount": 756000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=640&q=80",
+      "duration": "19:28",
+      "views": 687000,
+      "postedAgo": "4 days ago",
+      "tags": [
+        "cars",
+        "Porsche",
+        "supercar",
+        "track day",
+        "performance"
+      ],
+      "description": "We took a Porsche 911 Turbo S to the track and pushed it to the limit. 0-60 in 2.6 seconds, top speed testing, and cornering analysis.",
+      "category": "cars"
+    },
+    {
+      "id": "cars-6",
+      "title": "Buying a Used Car? Watch This Before You Make a Mistake",
+      "channel": {
+        "name": "Smart Car Buyers",
+        "avatar": "https://i.pravatar.cc/80?u=smart-buyers",
+        "verified": false,
+        "subscriberCount": 234000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1581092918056-0c4c3acd3789?w=640&q=80",
+      "duration": "28:15",
+      "views": 945000,
+      "postedAgo": "2 weeks ago",
+      "tags": [
+        "cars",
+        "used cars",
+        "car buying tips",
+        "inspection checklist"
+      ],
+      "description": "Complete guide to buying a used car. What to inspect, red flags to watch for, price negotiation tips, and how to spot a lemon.",
+      "category": "cars"
+    },
+    {
+      "id": "cars-10",
+      "title": "Best Family SUVs for 2024 - Safety, Space & Value Tested",
+      "channel": {
+        "name": "Family Car Guide",
+        "avatar": "https://i.pravatar.cc/80?u=family-car",
+        "verified": false,
+        "subscriberCount": 312000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=640&q=80",
+      "duration": "32:41",
+      "views": 156000,
+      "postedAgo": "3 weeks ago",
+      "tags": [
+        "cars",
+        "SUV",
+        "family cars",
+        "safety ratings",
+        "car buying"
+      ],
+      "description": "We tested 6 family SUVs: Honda Pilot, Toyota 4Runner, Kia Telluride, and more. Child safety seat testing, interior space, reliability ratings.",
+      "category": "cars"
+    },
+    {
+      "id": "language-1",
+      "title": "Learn Spanish in 30 Days: Complete Beginner's Guide",
+      "channel": {
+        "name": "Fluent Fast Languages",
+        "avatar": "https://i.pravatar.cc/80?u=fluentfast",
+        "verified": true,
+        "subscriberCount": 487000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=640&q=80",
+      "duration": "24:17",
+      "views": 2847000,
+      "postedAgo": "3 weeks ago",
+      "tags": [
+        "language",
+        "education",
+        "spanish",
+        "beginners",
+        "tutorial"
+      ],
+      "description": "Master Spanish basics in just 30 days with this comprehensive guide covering pronunciation, essential phrases, and grammar fundamentals.",
+      "category": "language"
+    },
+    {
+      "id": "language-2",
+      "title": "Japanese Kanji Breakdown: 100 Most Common Characters",
+      "channel": {
+        "name": "Tokyo Language Hub",
+        "avatar": "https://i.pravatar.cc/80?u=tokyolang",
+        "verified": false,
+        "subscriberCount": 156000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=640&q=80",
+      "duration": "31:45",
+      "views": 1234000,
+      "postedAgo": "2 months ago",
+      "tags": [
+        "language",
+        "education",
+        "japanese",
+        "kanji",
+        "writing"
+      ],
+      "description": "Learn to recognize and write the 100 most frequently used kanji characters with memory techniques and practical examples.",
+      "category": "language"
+    },
+    {
+      "id": "language-3",
+      "title": "French Pronunciation Tips: Sound Like a Native Speaker",
+      "channel": {
+        "name": "Parlez Français",
+        "avatar": "https://i.pravatar.cc/80?u=parlezfrancais",
+        "verified": true,
+        "subscriberCount": 623000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=640&q=80",
+      "duration": "18:32",
+      "views": 3421000,
+      "postedAgo": "1 week ago",
+      "tags": [
+        "language",
+        "education",
+        "french",
+        "pronunciation",
+        "accent"
+      ],
+      "description": "Master French pronunciation with detailed mouth position guides and comparison exercises to help you sound authentically French.",
+      "category": "language"
+    },
+    {
+      "id": "language-10",
+      "title": "English Phrasal Verbs: 50 Essential Verbs Explained",
+      "channel": {
+        "name": "English Mastery Plus",
+        "avatar": "https://i.pravatar.cc/80?u=englishmastery",
+        "verified": false,
+        "subscriberCount": 521000
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=640&q=80",
+      "duration": "35:17",
+      "views": 3856000,
+      "postedAgo": "9 days ago",
+      "tags": [
+        "language",
+        "education",
+        "english",
+        "phrasal verbs",
+        "grammar"
+      ],
+      "description": "Master 50 most common English phrasal verbs with real-world examples and contextual sentences.",
+      "category": "language"
+    }
+  ],
+  "categories": [
+    "Jazz",
+    "Classical",
+    "Chill",
+    "Hip-hop",
+    "Rock",
+    "Electronic",
+    "Indie",
+    "Gaming",
+    "Cooking",
+    "Tech reviews",
+    "News",
+    "Education",
+    "Comedy",
+    "Fitness",
+    "Vlogs",
+    "Sports highlights",
+    "Science",
+    "History",
+    "Kids",
+    "Beauty",
+    "Travel",
+    "DIY",
+    "Business",
+    "True crime",
+    "Climbing",
+    "Woodworking",
+    "Fashion",
+    "Photography",
+    "Cars",
+    "Language learning"
+  ]
+}

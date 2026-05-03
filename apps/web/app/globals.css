@@ -1,0 +1,73 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg: #ffffff;
+  --fg: #0f0f0f;
+  --muted: #f2f2f2;
+  --muted-fg: #606060;
+  --border: #e5e5e5;
+  --accent: #FF0000;
+  --accent-fg: #ffffff;
+  --font-scale: 1;
+  --radius: 0.75rem;
+  /* Surface = the chrome (TopBar/Sidebar/CategoryChips). By default it matches bg.
+     When a gradient bg is active, we override surface to a translucent overlay so
+     the gradient shows through with a glassy frost. */
+  --surface: var(--bg);
+  --surface-blur: 0px;
+}
+
+[data-theme='dark'] {
+  --bg: #0f0f0f;
+  --fg: #f1f1f1;
+  --muted: #272727;
+  --muted-fg: #aaaaaa;
+  --border: #303030;
+}
+
+[data-bg='gradient'] {
+  --surface: rgba(15, 15, 20, 0.35);
+  --surface-blur: 24px;
+  /* Subtle white border with accent tint on chrome borders, visible even without backdrop-filter. */
+  --border: rgba(255, 255, 255, 0.12);
+}
+[data-theme='light'][data-bg='gradient'] {
+  --surface: rgba(255, 255, 255, 0.4);
+  --border: rgba(0, 0, 0, 0.08);
+}
+
+html {
+  /* Scaling html's font-size also scales every rem-based Tailwind utility. */
+  font-size: calc(16px * var(--font-scale, 1));
+}
+
+html, body {
+  background: var(--bg);
+  color: var(--fg);
+}
+
+body {
+  /* smooth theme transitions but skip on initial mount */
+  transition: background-color 240ms ease, color 240ms ease;
+}
+
+/* Subtle fade-in for new content (request_more_content adds videos) */
+@keyframes fade-in {
+  from { opacity: 0; transform: translateY(4px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+article {
+  animation: fade-in 220ms ease-out both;
+}
+
+/* Hide native scrollbars on horizontal carousels (Tailwind's [&::-webkit-scrollbar]:hidden also covers it) */
+.no-scrollbar::-webkit-scrollbar { display: none; }
+.no-scrollbar { scrollbar-width: none; }
+
+/* Reduce motion respect */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation-duration: 0.01ms !important; transition-duration: 0.01ms !important; }
+}
